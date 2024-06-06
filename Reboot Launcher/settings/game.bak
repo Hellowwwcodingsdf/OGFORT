@@ -1,1 +1,0 @@
-{"versions":"[{\"name\":\"Chapter 2, Season 2 (12.61)\",\"location\":\"C:\\\\FortniteBuilds\\\\Chapter 2, Season 2 (12.61)\"},{\"name\":\"Chapter 1, Season 4 (4.0)\",\"location\":\"C:\\\\FortniteBuilds\\\\Chapter 1, Season 4 (4.0)\"}]","version":"Chapter 1, Season 4 (4.0)"}

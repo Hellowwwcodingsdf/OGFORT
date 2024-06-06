@@ -1,1 +1,0 @@
-{"game_server_owner":"Player","game_server_address":"87.114.27.217"}
