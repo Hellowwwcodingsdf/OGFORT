@@ -1,0 +1,1465 @@
+Redirecting to http://127.0.0.1:3551
+Initializing Cobalt (made by Milxnor#3531).
+Credits:
+
+Memcury - https://github.com/kem0x/Memcury
+Neonite++ for most of the signatures and curl hook - https://github.com/PeQuLeaks/NeonitePP-Fixed/tree/1.4
+
+Fallback!
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk9-WindowsClient.pak attempting to mount.
+
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk9-WindowsClient.pak.
+
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk8-WindowsClient.pak attempting to mount.
+
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk8-WindowsClient.pak.
+
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk7-WindowsClient.pak attempting to mount.
+
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk7-WindowsClient.pak.
+
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk5-WindowsClient.pak attempting to mount.
+
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk5-WindowsClient.pak.
+
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk2-WindowsClient.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk2-WindowsClient.pak.
+
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk1-WindowsClient.pak attempting to mount.
+
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk1-WindowsClient.pak.
+
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk0_s3-WindowsClient.pak attempting to mount.
+
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk0_s3-WindowsClient.pak.
+
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk0_s2-WindowsClient.pak attempting to mount.
+
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk0_s2-WindowsClient.pak.
+
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk0_s1-WindowsClient.pak attempting to mount.
+
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk0_s1-WindowsClient.pak.
+
+Failed to find PushWidget (This may be fine)!
+Cobalt v0.1 initialized sucessfully.
+LogPakFile: Display: Found Pak file ../../../FortniteGame/Content/Paks/pakchunk0-WindowsClient.pak attempting to mount.
+
+LogPakFile: Display: Mounting pak file ../../../FortniteGame/Content/Paks/pakchunk0-WindowsClient.pak.
+
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+
+LogStreaming: Display: Took  0.065s to configure plugins.
+
+LogStreaming: Display: Took  0.005s to delete old logs.
+
+LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: true, Async Post Load: true
+
+LogHAL: Display: Platform has ~ 48 GB [51383930880 / 68719476736 / 48], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+
+LogStreaming: Display: Took  0.031s to InitEngineTextLocalization.
+
+LogShaderLibrary: Display: Using ../../../FortniteGame/Content/ShaderArchive-Global-PCD3D_SM5.ushaderbytecode for material shader code. Total 1163 unique shaders.
+LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library Global
+LogShaderLibrary: Display: Failed to load Shared Shader Library: BlueprintMaterialTextureNodes and no native library supported.
+LogShaderLibrary: Display: Failed to load Shared Shader Library: BlueprintMaterialTextureNodes_SC and no native library supported.
+LogShaderLibrary: Display: Failed to load Shared Shader Library: BlueprintMaterialTextureNodes and no native library supported.
+LogShaderLibrary: Display: Failed to load Shared Shader Library: BlueprintMaterialTextureNodes_SC and no native library supported.
+
+LogShaderLibrary: Display: Failed to load Shared Shader Library: EarlyStartupPatcher and no native library supported.
+
+LogShaderLibrary: Display: Failed to load Shared Shader Library: EarlyStartupPatcher_SC and no native library supported.
+
+LogShaderLibrary: Display: Failed to load Shared Shader Library: EarlyStartupPatcher and no native library supported.
+
+LogShaderLibrary: Display: Failed to load Shared Shader Library: EarlyStartupPatcher_SC and no native library supported.
+
+LogShaderLibrary: Display: Failed to load Shared Shader Library: ImagePlate and no native library supported.
+
+LogShaderLibrary: Display: Failed to load Shared Shader Library: ImagePlate_SC and no native library supported.
+
+LogShaderLibrary: Display: Failed to load Shared Shader Library: ImagePlate and no native library supported.
+
+LogShaderLibrary: Display: Failed to load Shared Shader Library: ImagePlate_SC and no native library supported.
+
+LogShaderLibrary: Display: Failed to load Shared Shader Library: NetUI and no native library supported.
+
+LogShaderLibrary: Display: Failed to load Shared Shader Library: NetUI_SC and no native library supported.
+
+LogShaderLibrary: Display: Failed to load Shared Shader Library: NetUI and no native library supported.
+
+LogShaderLibrary: Display: Failed to load Shared Shader Library: NetUI_SC and no native library supported.
+
+LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D and no native library supported.
+
+LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D_SC and no native library supported.
+
+LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D and no native library supported.
+
+LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D_SC and no native library supported.
+
+LogShaderLibrary: Display: Failed to load Shared Shader Library: Social and no native library supported.
+
+LogShaderLibrary: Display: Failed to load Shared Shader Library: Social_SC and no native library supported.
+
+LogShaderLibrary: Display: Failed to load Shared Shader Library: Social and no native library supported.
+
+LogShaderLibrary: Display: Failed to load Shared Shader Library: Social_SC and no native library supported.
+
+LogShaderLibrary: Display: Failed to load Shared Shader Library: SubtitlesWidgetsEditor and no native library supported.
+
+LogShaderLibrary: Display: Failed to load Shared Shader Library: SubtitlesWidgetsEditor_SC and no native library supported.
+
+LogShaderLibrary: Display: Failed to load Shared Shader Library: SubtitlesWidgetsEditor and no native library supported.
+
+LogShaderLibrary: Display: Failed to load Shared Shader Library: SubtitlesWidgetsEditor_SC and no native library supported.
+
+LogShaderLibrary: Display: Failed to load Shared Shader Library: RemoteSession and no native library supported.
+
+LogShaderLibrary: Display: Failed to load Shared Shader Library: RemoteSession_SC and no native library supported.
+
+LogShaderLibrary: Display: Failed to load Shared Shader Library: RemoteSession and no native library supported.
+
+LogShaderLibrary: Display: Failed to load Shared Shader Library: RemoteSession_SC and no native library supported.
+
+LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys and no native library supported.
+
+LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys_SC and no native library supported.
+
+LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys and no native library supported.
+
+LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys_SC and no native library supported.
+
+LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent and no native library supported.
+
+LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent_SC and no native library supported.
+
+LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent and no native library supported.
+
+LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent_SC and no native library supported.
+
+LogRHI: Display: Failed to open default shader pipeline cache for FortniteGame using shader platform 0.
+
+LogRHI: Display: Failed to open default shader pipeline cache for FortniteGame using shader platform 0.
+
+LogShaderLibrary: Display: Using ../../../FortniteGame/Content/ShaderArchive-FortniteGame-PCD3D_SM5.ushaderbytecode for material shader code. Total 70459 unique shaders.
+LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library FortniteGame
+
+LogShaderLibrary: Display: Failed to load Shared Shader Library: FortniteGame_SC and no native library supported.
+
+LogRHI: Display: Failed to open default shader pipeline cache for FortniteGame using shader platform 0.
+
+LogShaderLibrary: Display: Failed to load Shared Shader Library: FortniteGame and no native library supported.
+
+LogShaderLibrary: Display: Failed to load Shared Shader Library: FortniteGame_SC and no native library supported.
+
+LogRHI: Display: Failed to open default shader pipeline cache for FortniteGame using shader platform 0.
+
+LogStreaming: Display: Took  0.172s to InitGameTextLocalization.
+
+LogStreaming: Display: Flushing async loaders.
+
+LogFortSignificance: Display: Set AI budget to '8,16'
+
+LogFortSignificance: Display: Set Athena Player Pawn budget to '5,10,10,75'
+LogFortSignificance: Display: Set Athena Player Pawn URO rate to '0,1,2,3'
+LogFortSignificance: Display: Set Athena Player Pawn URO interpolation to '1,1,1,1'
+LogFortSignificance: Display: Set Athena Player SkelMeshMinLOD to '0,1,1,2'
+LogFortSignificance: Display: Set bucket distances to '50,100,250,500'
+
+LogInit: Display: Build flavor: '"Western"'
+
+URL: fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game
+LogSIP: Display: SIP Module Initialized
+
+LogSIP: Display: Plugin Status: 1
+
+LogInit: Display: Limiting process virtual memory size to 8388608 KB
+
+LogFort: Display: Startup job "Super::StartInitialLoading()" starting
+
+LogFort: Display: Startup job "Super::StartInitialLoading()" took 0.68 seconds to complete
+
+LogFort: Display: Startup job "RegisterConstructorReferences()" starting
+
+LogFort: Display: Startup job "RegisterConstructorReferences()" took 0.00 seconds to complete
+LogFort: Display: Startup job "InitializeAbilitySystem()" starting
+
+LogFort: Display: Startup job "InitializeAbilitySystem()" took 0.12 seconds to complete
+LogFort: Display: Startup job "ScanForNavAgentCostData()" starting
+
+LogFort: Display: Startup job "ScanForNavAgentCostData()" took 0.00 seconds to complete
+
+LogFort: Display: Startup job "GetGameData()" starting
+
+LogStreaming: Warning: FAsyncPackage::LoadImports for /Game/Effects/SplineTrails/Blueprints/BP_SplineVolumeTrail_v1b: Skipping import BoolProperty /Script/Engine.Texture:DeferCompression, depends on missing native class
+
+LogStreaming: Warning: Took 172.24ms to ProcessLoadedPackages
+
+LogStreaming: Warning: Took 125.33ms to ProcessLoadedPackages
+
+LogFort: Display: Startup job "GetGameData()" took 2.36 seconds to complete
+LogFort: Display: Startup job "LoadHandle = PreloadStartupAssets()" starting
+
+LogStreaming: Warning: Took 163.10ms to ProcessLoadedPackages
+
+LogStreaming: Warning: Took 955.02ms to ProcessLoadedPackages
+
+LogFort: Display: Startup job "LoadHandle = PreloadStartupAssets()" took 4.01 seconds to complete
+
+LogFort: Display: Startup job "LoadHandle = PreloadStartupSubAssets()" starting
+
+LogFort: Display: Startup job "LoadHandle = PreloadStartupSubAssets()" took 0.05 seconds to complete
+
+LogFort: Display: Startup job "UFortGlobals::Get().LoadUIStyle()" starting
+
+LogFort: Display: Startup job "UFortGlobals::Get().LoadUIStyle()" took 0.00 seconds to complete
+
+LogFort: Display: All startup jobs took 7.23 seconds to complete
+
+LogConsoleResponse: Display: Apply Settings:
+
+LogGfeSDK: Warning: 2024-06-06T08:33:57.598[E] TASK     CoreCallbacks.cpp:138  FAILED TO CONNECT GfeSDK.dll: 1.1.195.b747996a GFE: 3.27.0.120 SDKNode: 1.1
+
+
+LogGfeSDK: Warning: 2024-06-06T08:33:57.598[E] GAME              Core.cpp:126  Failure during NVGSDK_Create: NVGSDK_ERR_SDK_IN_USE Error: Failed initializing SDK
+
+
+LogGfeSDK: Warning: 2024-06-06T08:33:57.604[E] GAME    CoreCInterface.cpp:79   Error: failed initializing SDK -1008
+
+
+LogGfeSDK: Error: Failed to create GfeSDK: -1008
+
+LogBlueprintContext: Display: Creating blueprint contexts for Local Player ' FortLocalPlayer_0 ' of Game Instance ' FortGameInstance_0 '
+
+LogBlueprintContext: Display: Created Blueprint Context 'CommonUIContext' for Local Player 'FortLocalPlayer_0'
+
+LogBlueprintContext: Display: Created Blueprint Context 'CommonInputContext' for Local Player 'FortLocalPlayer_0'
+
+LogBlueprintContext: Display: Created Blueprint Context 'HomeBaseContext' for Local Player 'FortLocalPlayer_0'
+
+LogBlueprintContext: Display: Created Blueprint Context 'FortMatchmakingContext' for Local Player 'FortLocalPlayer_0'
+LogBlueprintContext: Display: Created Blueprint Context 'FortMcpContext' for Local Player 'FortLocalPlayer_0'
+
+LogBlueprintContext: Display: Created Blueprint Context 'FortOutpostContext' for Local Player 'FortLocalPlayer_0'
+
+LogBlueprintContext: Display: Created Blueprint Context 'FortPartyContext' for Local Player 'FortLocalPlayer_0'
+
+LogBlueprintContext: Display: Created Blueprint Context 'FortPrototypingContext' for Local Player 'FortLocalPlayer_0'
+
+LogBlueprintContext: Display: Created Blueprint Context 'FortReplayContext' for Local Player 'FortLocalPlayer_0'
+
+LogBlueprintContext: Display: Created Blueprint Context 'LocalServiceMessageContext' for Local Player 'FortLocalPlayer_0'
+
+LogBlueprintContext: Display: Created Blueprint Context 'AthenaAccountContext' for Local Player 'FortLocalPlayer_0'
+
+LogBlueprintContext: Display: Created Blueprint Context 'AthenaHUDContext' for Local Player 'FortLocalPlayer_0'
+
+LogBlueprintContext: Display: Created Blueprint Context 'AthenaProfileStatContext' for Local Player 'FortLocalPlayer_0'
+
+LogBlueprintContext: Display: Created Blueprint Context 'CMSContext' for Local Player 'FortLocalPlayer_0'
+
+LogBlueprintContext: Display: Created Blueprint Context 'FortAbilitySystemContext' for Local Player 'FortLocalPlayer_0'
+LogBlueprintContext: Display: Created Blueprint Context 'FortAccountStatsContext' for Local Player 'FortLocalPlayer_0'
+
+LogBlueprintContext: Display: Created Blueprint Context 'FortFrontEndContext' for Local Player 'FortLocalPlayer_0'
+LogBlueprintContext: Display: Created Blueprint Context 'FortGlobalUIContext' for Local Player 'FortLocalPlayer_0'
+
+LogBlueprintContext: Display: Created Blueprint Context 'FortHeroManagementContext' for Local Player 'FortLocalPlayer_0'
+
+LogBlueprintContext: Display: Created Blueprint Context 'FortHomebaseUIContext' for Local Player 'FortLocalPlayer_0'
+
+LogBlueprintContext: Display: Created Blueprint Context 'FortHUDContext' for Local Player 'FortLocalPlayer_0'
+
+LogBlueprintContext: Display: Created Blueprint Context 'FortInventoryContext' for Local Player 'FortLocalPlayer_0'
+LogBlueprintContext: Display: Created Blueprint Context 'FortLeaderboardContext' for Local Player 'FortLocalPlayer_0'
+
+LogBlueprintContext: Display: Created Blueprint Context 'FortPickerContext' for Local Player 'FortLocalPlayer_0'
+
+LogBlueprintContext: Display: Created Blueprint Context 'FortStoreContext' for Local Player 'FortLocalPlayer_0'
+
+LogBlueprintContext: Display: Created Blueprint Context 'FortTooltipUIContext' for Local Player 'FortLocalPlayer_0'
+
+LogBlueprintContext: Display: Created Blueprint Context 'FortTutorialContext' for Local Player 'FortLocalPlayer_0'
+
+LogBlueprintContext: Display: Created Blueprint Context 'FortUIDataConfigurationContext' for Local Player 'FortLocalPlayer_0'
+LogBlueprintContext: Display: Created Blueprint Context 'HUDLayoutToolContext' for Local Player 'FortLocalPlayer_0'
+
+LogInit: Display: Game Engine Initialized.
+
+LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 1
+
+LogInit: Display: Starting Game.
+
+LogHotfixManager: Display: Update State UpdateIdle -> UpdatePending
+
+LogCore: Display: Setting hang detector multiplier to 3.0000s. New hang duration: 0.0000s.
+
+LogStreaming: Display: /Game/Maps/Frontend is prestreaming /Game/Maps/FrontEnd/Maps/FrontEndStore
+
+LogStreaming: Display: /Game/Maps/Frontend is prestreaming /Game/Maps/UI/Frontend_BG_Main
+
+URL: datarouter.ol.epicgames.com/datarouter/api/v1/public/data
+LogFort: Warning: GetOrInitializeHero called with invalid player info!
+
+LogFort: Warning: GetOrInitializeHero called with invalid player info!
+
+LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+
+LogStreaming: Display: Suspending async loading (1)
+
+LogStreaming: Display: Resuming async loading (0)
+
+LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/FrontEnd/FortniteWorldMap) is flushing async loading
+
+LogStreaming: Display: Flushing async loaders.
+
+LogFortUI: Display: [UFortUIManagerWidget_NUI::NativeTick] change state to Login with current values CurrentState: Invalid and NextState: Invalid
+
+LogFortUI: Display: [UFortUIManagerWidget_NUI::SetUIState] states from: Invalid to: Login
+
+LogFortUI: Display: [UFortUIManagerWidget_NUI::TransitionToNextState] Switching states from: Login to: Invalid
+
+LogFortUI: Warning: [UFortSplashScreenWidget] Enter ShouldBypassSplashScreen
+
+LogOnlineGame: Display: StartUpdateCheck initial update not complete
+
+LogOnlineGame: Display: StartUpdateCheck starting update check
+LogHotfixManager: Display: Update already in progress
+
+URL: account-public-service-prod03.ol.epicgames.com/account/api/oauth/token
+LogHotfixManager: Display: Update State UpdatePending -> CheckingForPatch
+
+LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/FortniteTownmap) is flushing async loading
+
+URL: fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/calendar/v1/timeline
+LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/UI/Frontend_SkillTree) is flushing async loading
+
+LogStreaming: Display: Flushing async loaders.
+
+URL: fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/v2/versioncheck/Windows
+LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/FrontEnd/Maps/FrontEndStore_Pinata) is flushing async loading
+
+LogStreaming: Display: Flushing async loaders.
+
+LogHotfixManager: Display: Update State CheckingForPatch -> CheckingForHotfix
+
+URL: fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/cloudstorage/system
+LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/UI/Frontend_Lobby) is flushing async loading
+LogStreaming: Display: Flushing async loaders.
+
+LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/WorldLightingMenu) is flushing async loading
+LogStreaming: Display: Flushing async loaders.
+
+LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/UI/Frontend_Lobby_Season4) is flushing async loading
+
+LogHotfixManager: Warning: Specified per-object class Prod was not found
+
+LogQos: Warning: Unable to set a good region!
+LogQos: Warning: Wanted to set NONE, failed to fall back to 
+LogQos: Display: Region Info:
+LogQos: Display: Current:  
+
+LogQos: Display: Overall Result: Invalid
+
+LogQos: Display: Region: NA-East [NAE] Ping: 9999
+LogQos: Display: 	Enabled: 1 Visible: 1 Beta: 0 Result: Invalid
+LogQos: Display: Region: NA-West [NAW] Ping: 9999
+LogQos: Display: 	Enabled: 1 Visible: 1 Beta: 0 Result: Invalid
+
+LogQos: Display: Region: Europe [EU] Ping: 9999
+
+LogQos: Display: 	Enabled: 1 Visible: 1 Beta: 0 Result: Invalid
+LogQos: Display: Region: Oceania [OCE] Ping: 9999
+LogQos: Display: 	Enabled: 1 Visible: 1 Beta: 0 Result: Invalid
+
+LogQos: Display: Region: Brazil [BR] Ping: 9999
+
+LogQos: Display: 	Enabled: 1 Visible: 1 Beta: 0 Result: Invalid
+
+LogQos: Display: Region: Asia [ASIA] Ping: 9999
+LogQos: Display: 	Enabled: 1 Visible: 1 Beta: 0 Result: Invalid
+
+LogQos: Display: Region: Ohio [OH] Ping: 9999
+
+LogQos: Display: 	Enabled: 1 Visible: 0 Beta: 1 Result: Invalid
+
+LogQos: Display: Region: London [GB] Ping: 9999
+LogQos: Display: 	Enabled: 1 Visible: 0 Beta: 1 Result: Invalid
+
+LogQos: Display: Region: Testtj [Testtj] Ping: 9999
+LogQos: Display: 	Enabled: 1 Visible: 0 Beta: 1 Result: Invalid
+
+LogQos: Display: Region: Testsa [Testsa] Ping: 9999
+
+LogQos: Display: 	Enabled: 1 Visible: 0 Beta: 1 Result: Invalid
+LogQos: Display: Region: Testou [Testou] Ping: 9999
+LogQos: Display: 	Enabled: 1 Visible: 0 Beta: 1 Result: Invalid
+
+LogQos: Display: Region: Testpf [Testpf] Ping: 9999
+
+LogQos: Display: 	Enabled: 1 Visible: 0 Beta: 1 Result: Invalid
+LogQos: Display: Region: Testdi [Testdi] Ping: 9999
+
+LogQos: Display: 	Enabled: 1 Visible: 0 Beta: 1 Result: Invalid
+
+LogHotfixManager: Display: Hotfix data has been successfully applied
+LogHotfixManager: Display: Checking for assets to be patched using data from 'AssetHotfix' section in the Game .ini file
+LogHotfixManager: Display: No assets were found in the 'AssetHotfix' section in the Game .ini file.  No patching needed.
+LogHotfixManager: Display: OnHotfixCheckComplete 1
+
+LogHotfixManager: Display: Update State CheckingForHotfix -> WaitingOnInitialLoad
+
+LogHotfixManager: Display: Update State WaitingOnInitialLoad -> InitialLoadComplete
+
+LogHotfixManager: Display: CheckComplete UpdateSuccess
+
+LogCore: Display: Setting hang detector multiplier to 1.0000s. New hang duration: 0.0000s.
+
+LogHotfixManager: Display: External CheckComplete UpdateSuccess
+
+LogHotfixManager: Display: Update State InitialLoadComplete -> UpdatePending
+
+LogOnlineAccount: Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Checking Epic services queue... (LoginWaitingRoom)
+
+LogOnlineAccount: Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Signing in to Epic services... (LoggingIn)
+
+URL: account-public-service-prod03.ol.epicgames.com/account/api/oauth/token
+URL: account-public-service-prod03.ol.epicgames.com/account/api/oauth/sessions/kill
+URL: account-public-service-prod03.ol.epicgames.com/account/api/public/account/Player
+URL: account-public-service-prod03.ol.epicgames.com/account/api/public/account/Player/externalAuths
+LogOnlineAccount: Display: [UOnlineAccountCommon::ProcessUserLogin] Successfully logged in user. UserId=[Player] DisplayName=[Player] EpicAccountId=[Player] AuthTicket=[<Redacted>]
+
+LogOnlineAccount: Display: [UOnlineAccountCommon::ContinueLoggingIn] Login:  (CheckPlatformPlayAllowed)
+
+LogOnlineAccount: Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Contacting services... (CheckServiceAvailability)
+
+URL: lightswitch-public-service-prod06.ol.epicgames.com/lightswitch/api/service/bulk/status
+LogOnlineAccount: Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Checking entitlements... (CheckEntitledToPlay)
+
+URL: fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/enabled_features
+LogOnlineAccount: Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Downloading user settings... (DownloadingClientSettings)
+
+URL: fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/cloudstorage/user/Player
+LogOnline: Warning: MCP: Local file hash does not match cloud hash! Local=7bd12bf6e4b91e75828d8455abfbd1cb0b45b1c1, Cloud=5ca360cbd799f4cd1f49374eb366cfcf0f5729b9
+
+URL: fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/cloudstorage/user/Player/ClientSettings.Sav
+LogConsoleResponse: Display: Apply Settings:
+
+LogConsoleResponse: Display: 
+
+LogFort: Warning: GetOrInitializeHero called with invalid player info!
+
+LogFortCustomization: Warning: AFortPlayerState::ApplyCharacterCustomization - Failed to find hero. Player Controller: FortPlayerControllerFrontEnd_0 PlayerState: FortPlayerStateFrontEnd_0, HeroId: 
+LogFortCustomization: Warning: AFortPlayerState::ApplyCharacterCustomization - Failed initialization, using default parts. Player Controller: FortPlayerControllerFrontEnd_0 PlayerState: FortPlayerStateFrontEnd_0, HeroId: 
+LogFort: Warning: GetOrInitializeHero called with invalid player info!
+
+LogFortCustomization: Warning: AFortPlayerState::ApplyCharacterCustomization - Failed to find hero. Player Controller: FortPlayerControllerFrontEnd_0 PlayerState: FortPlayerStateFrontEnd_0, HeroId: 
+
+LogFortCustomization: Warning: AFortPlayerState::ApplyCharacterCustomization - Failed initialization, using default parts. Player Controller: FortPlayerControllerFrontEnd_0 PlayerState: FortPlayerStateFrontEnd_0, HeroId: 
+LogFort: Warning: GetOrInitializeHero called with invalid player info!
+LogFortCustomization: Warning: AFortPlayerState::ApplyCharacterCustomization - Failed to find hero. Player Controller: FortPlayerControllerFrontEnd_0 PlayerState: FortPlayerStateFrontEnd_0, HeroId: 
+
+LogFortCustomization: Warning: AFortPlayerState::ApplyCharacterCustomization - Failed initialization, using default parts. Player Controller: FortPlayerControllerFrontEnd_0 PlayerState: FortPlayerStateFrontEnd_0, HeroId: 
+LogFort: Warning: GetOrInitializeHero called with invalid player info!
+
+LogFortCustomization: Warning: AFortPlayerState::ApplyCharacterCustomization - Failed to find hero. Player Controller: FortPlayerControllerFrontEnd_0 PlayerState: FortPlayerStateFrontEnd_0, HeroId: 
+LogFortCustomization: Warning: AFortPlayerState::ApplyCharacterCustomization - Failed initialization, using default parts. Player Controller: FortPlayerControllerFrontEnd_0 PlayerState: FortPlayerStateFrontEnd_0, HeroId: 
+
+LogFort: Warning: GetOrInitializeHero called with invalid player info!
+LogFortCustomization: Warning: AFortPlayerState::ApplyCharacterCustomization - Failed to find hero. Player Controller: FortPlayerControllerFrontEnd_0 PlayerState: FortPlayerStateFrontEnd_0, HeroId: 
+LogFortCustomization: Warning: AFortPlayerState::ApplyCharacterCustomization - Failed initialization, using default parts. Player Controller: FortPlayerControllerFrontEnd_0 PlayerState: FortPlayerStateFrontEnd_0, HeroId: 
+
+LogOnlineAccount: Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Downloading profile... (QueryProfile)
+
+LogCore: Display: Setting hang detector multiplier to 3.0000s. New hang duration: 0.0000s.
+
+URL: fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/Player/client/QueryProfile
+LogVivoxVoiceChat: Warning: onConnectFailed https://fnwp.www.vivox.com/api2/ couldn't resolve host name (10006)
+
+LogProfileSys: Display: HandleFullProfileUpdate Complete:
+LogProfileSys: Display: 	TotalTime: 0.00
+LogProfileSys: Display: 	StatUpdate: 0.00
+LogProfileSys: Display: 	ItemUpdate: 0.00
+LogProfileSys: Display: 	DestroyOld: 0.00
+LogParty: Display: Homebase updated for Team Member: 
+
+URL: fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/Player/client/QueryProfile
+LogProfileSys: Display: HandleFullProfileUpdate Complete:
+
+LogProfileSys: Display: 	TotalTime: 0.00
+LogProfileSys: Display: 	StatUpdate: 0.00
+LogProfileSys: Display: 	ItemUpdate: 0.00
+LogProfileSys: Display: 	DestroyOld: 0.00
+
+LogParty: Display: Homebase updated for Team Member: 
+
+LogOnlineAccount: Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Redeeming offline purchases... (RedeemOfflinePurchases)
+
+URL: fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/receipts/v1/account/Player/receipts
+LogOnlineAccount: Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Searching for session to rejoin... (CheckingRejoin)
+
+LogOnlineAccount: Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Checking connection to datacenters... (DoQosPingTests)
+
+LogStreaming: Display: Flushing async loaders.
+
+LogFortSettings: Display: Region Auto: NAE
+
+LogOnlineAccount: Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Creating party... (CreatingParty)
+
+LogOnlineParty: Warning: OSS::Party: FOnlinePartySystemMcp::PublishPartyInfoToPresence failure to publish presence user=Player party=C195DC794CF2BFB2C66E65A8B2A75B54
+LogParty: Display: OnCreatePartyInternalComplete() C195DC794CF2BFB2C66E65A8B2A75B54 Succeeded
+
+LogParty: Display: Local player [Player] (ID [Player]) joined a new party [C195DC794CF2BFB2C66E65A8B2A75B54].
+
+LogParty: Display: OnCreatePersistentPartyComplete() Succeeded
+
+LogOnlineParty: Warning: OSS::Party: FOnlinePartySystemMcp::PublishPartyInfoToPresence failure to publish presence user=Player party=C195DC794CF2BFB2C66E65A8B2A75B54
+
+LogParty: Display: New party member state for [Player] Id [Player] added to the local player's party [C195DC794CF2BFB2C66E65A8B2A75B54].
+
+LogParty: Display: Adding [Player] Id [Player] as a new member to [Player]'s party via an existing UITeamMember in [Player]'s game.
+
+LogParty: Display: New member [MCP:Player] added to UI Party led by [MCP:Player] platform id [INVALID]
+LogParty: Display: UpdateChangeCallbacks: Getting Team Member Info for [Player] Id [Player].
+
+LogParty: Display: [Player] Id [Player] added to team [MAX] at index [0] in [Player]'s game.
+
+LogParty: Warning: Failed to serialize hero type from 
+
+LogParty: Display: UpdateChangeCallbacks: Getting Team Member Info for [Player] Id [Player].
+
+LogParty: Display: [Player] Id [Player] team member data updated, team [MAX] at index [0] in [Player]'s game.
+
+LogOnlineAccount: Display: [UOnlineAccountCommon::ContinueLoggingIn] Login: Completing Sign-in... (Completed)
+
+LogFort: Warning: AFortPlayerController::GetOrInitializeHero - PlayerInfo did not return a hero.
+
+URL: fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/storefront/v2/catalog
+URL: friends-public-service-prod06.ol.epicgames.com/friends/api/public/friends/Player
+URL: account-public-service-prod03.ol.epicgames.com/account/api/public/account
+URL: friends-public-service-prod06.ol.epicgames.com/friends/api/public/blocklist/Player
+LogJson: Warning: Ignoring excess properties when deserializing AppStoreId
+
+LogJson: Warning: Ignoring excess properties when deserializing AppStoreId
+LogJson: Warning: Ignoring excess properties when deserializing AppStoreId
+LogJson: Warning: Ignoring excess properties when deserializing AppStoreId
+LogJson: Warning: Ignoring excess properties when deserializing AppStoreId
+LogJson: Warning: Ignoring excess properties when deserializing AppStoreId
+LogJson: Warning: Ignoring excess properties when deserializing AppStoreId
+LogJson: Warning: Ignoring excess properties when deserializing AppStoreId
+LogJson: Warning: Ignoring excess properties when deserializing AppStoreId
+LogJson: Warning: Ignoring excess properties when deserializing AppStoreId
+LogJson: Warning: Ignoring excess properties when deserializing AppStoreId
+LogJson: Warning: Ignoring excess properties when deserializing AppStoreId
+LogJson: Warning: Ignoring excess properties when deserializing AppStoreId
+LogJson: Warning: Ignoring excess properties when deserializing AppStoreId
+LogJson: Warning: Ignoring excess properties when deserializing AppStoreId
+
+LogJson: Warning: Ignoring excess properties when deserializing AppStoreId
+
+LogJson: Warning: Ignoring excess properties when deserializing AppStoreId
+LogJson: Warning: Ignoring excess properties when deserializing AppStoreId
+
+LogJson: Warning: Ignoring excess properties when deserializing AppStoreId
+
+LogJson: Warning: Ignoring excess properties when deserializing AppStoreId
+
+LogJson: Warning: Ignoring excess properties when deserializing AppStoreId
+
+LogJson: Warning: Ignoring excess properties when deserializing AppStoreId
+
+LogJson: Warning: Ignoring excess properties when deserializing AppStoreId
+
+LogJson: Warning: Ignoring excess properties when deserializing AppStoreId
+
+LogJson: Warning: Ignoring excess properties when deserializing AppStoreId
+
+LogJson: Warning: Ignoring excess properties when deserializing AppStoreId
+
+LogJson: Warning: Ignoring excess properties when deserializing AppStoreId
+
+LogJson: Warning: Ignoring excess properties when deserializing AppStoreId
+
+LogJson: Warning: Ignoring excess properties when deserializing AppStoreId
+
+LogJson: Warning: Ignoring excess properties when deserializing AppStoreId
+
+You are using Fortnite Console with edit on release v2.1 for every version. Made by Milxnor#3531.
+Fortnite Version: 4.0
+Imagebase: 0x7ff68b320000
+Press F1 to create console again!
+Press F2 to create fort cheat manager!
+Press F3 to toggle edit on release (disabled by default)!
+LogOnlineParty: Display: OSS::Party: Publishing party to presence McpDisplayName(Player) PlatformDisplayName(Player) Platform(epic) PartyId(C195DC794CF2BFB2C66E65A8B2A75B54) AccessKey(D3C3348844FAEE842EC01796C5ECA5D8) HasPassword(0) IsAcceptingMembers(0) NotAcceptingReason(1)
+
+URL: launcher-resources.s3.amazonaws.com/launcher-resources/0.1_b76b28ed708e4efcbb6d0e843fcc6456/launcher/icon.png
+URL: launcher-resources.s3.amazonaws.com/launcher-resources/0.1_b76b28ed708e4efcbb6d0e843fcc6456/fortnite/icon.png
+GSC: 000001220A924900
+fn: 000001220B4346C0
+Console created!
+LogVivoxVoiceChat: Warning: onConnectFailed https://fnwp.www.vivox.com/api2/ couldn't resolve host name (10006)
+
+LogCore: Display: Setting hang detector multiplier to 1.0000s. New hang duration: 0.0000s.
+
+LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+
+LogHotfixManager: Display: Returning cached update result 1
+
+LogCore: Display: Setting hang detector multiplier to 3.0000s. New hang duration: 0.0000s.
+
+LogHotfixManager: Display: CheckComplete UpdateSuccess
+
+LogVivoxVoiceChat: Warning: onConnectFailed https://fnwp.www.vivox.com/api2/ couldn't resolve host name (10006)
+
+LogHotfixManager: Display: External CheckComplete UpdateSuccess
+
+LogHotfixManager: Display: Update State UpdatePending -> UpdateComplete
+LogFort: Display: AFortGameModeFrontEnd::OnUpdateCheckComplete called. Result=1
+
+LogFortUI: Display: [UFortUIManagerWidget_NUI::SetUIState] states from: Login to: SubgameSelect
+
+LogFortUI: Display: [UFortUIManagerWidget_NUI::TransitionToNextState] Switching states from: SubgameSelect to: Invalid
+
+LogCore: Display: Setting hang detector multiplier to 1.0000s. New hang duration: 0.0000s.
+
+LogCore: Display: Setting hang detector multiplier to 3.0000s. New hang duration: 0.0000s.
+
+LogStreaming: Display: Flushing async loaders.
+
+URL: fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/chat/Player/recommendGeneralChatRooms/Athena/pc
+LogOnlineAccount: Warning: Will try requesting chatroom recommendations again in 101 seconds.
+
+URL: fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/Player/client/QueryProfile
+LogVivoxVoiceChat: Warning: onConnectFailed https://fnwp.www.vivox.com/api2/ couldn't resolve host name (10006)
+
+LogProfileSys: Display: HandleFullProfileUpdate Complete:
+
+LogProfileSys: Display: 	TotalTime: 0.11
+LogProfileSys: Display: 	StatUpdate: 0.00
+LogProfileSys: Display: 	ItemUpdate: 0.11
+LogProfileSys: Display: 	DestroyOld: 0.00
+
+LogStreaming: Display: Flushing async loaders.
+
+LogFortUI: Display: [UFortUIManagerWidget_NUI::SetUIState] states from: SubgameSelect to: FrontEnd
+
+LogFortUI: Display: [UFortUIManagerWidget_NUI::TransitionToNextState] Switching states from: FrontEnd to: Invalid
+
+URL: launcher-resources.s3.amazonaws.com/launcher-resources/0.1_b76b28ed708e4efcbb6d0e843fcc6456/default/icon.png
+LogDataTable: Warning: UDataTable::FindRow : 'UFortGlobalUIContext::GetHealthyGamingData' requested row 'US' not in DataTable '/Game/UI/Foundation/Config/HealthyGamingData.HealthyGamingData'.
+
+LogOnlineParty: Display: OSS::Party: Publishing party to presence McpDisplayName(Player) PlatformDisplayName(Player) Platform(epic) PartyId(C195DC794CF2BFB2C66E65A8B2A75B54) AccessKey(D3C3348844FAEE842EC01796C5ECA5D8) HasPassword(0) IsAcceptingMembers(1) NotAcceptingReason(0)
+
+LogParty: Display: UFortPartyContext::HandlePartyResetForFrontend: PartyState [C195DC794CF2BFB2C66E65A8B2A75B54]
+LogParty: Display: UFortPartyContext::HandlePartyLeft: PartyState [null], Reason Unknown
+LogParty: Display: Local player [Player] (ID [Player]) left party [null]
+
+LogParty: Display: Local player [Player] (ID [Player]) joined a new party [C195DC794CF2BFB2C66E65A8B2A75B54].
+
+LogParty: Display: New party member state for [Player] Id [Player] added to the local player's party [C195DC794CF2BFB2C66E65A8B2A75B54].
+
+LogParty: Display: Removing [Player] Id [Player] from [Player]'s team.
+LogParty: Display: Adding [Player] Id [Player] as a new member to [Player]'s party via an existing UITeamMember in [Player]'s game.
+LogParty: Display: New member [MCP:Player] added to UI Party led by [MCP:Player] platform id [INVALID]
+
+LogParty: Display: UpdateChangeCallbacks: Getting Team Member Info for [Player] Id [Player].
+
+LogParty: Display: [Player] Id [Player] team member data updated, team [MAX] at index [0] in [Player]'s game.
+
+LogParty: Display: UpdateChangeCallbacks: Getting Team Member Info for [Player] Id [Player].
+
+LogParty: Display: [Player] Id [Player] team member data updated, team [MAX] at index [0] in [Player]'s game.
+
+LogParty: Display: UFortPartyContext::HandlePartyResetForFrontend exit
+
+LogParty: Warning: Failed to serialize hero type from 
+
+LogParty: Display: UpdateChangeCallbacks: Getting Team Member Info for [Player] Id [Player].
+
+LogParty: Display: [Player] Id [Player] team member data updated, team [MAX] at index [0] in [Player]'s game.
+
+LogParty: Display: UpdateChangeCallbacks: Getting Team Member Info for [Player] Id [Player].
+
+LogParty: Display: [Player] Id [Player] team member data updated, team [MAX] at index [0] in [Player]'s game.
+
+URL: fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/Player/client/ClientQuestLogin
+URL: fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/Player/client/MarkNewQuestNotificationSent
+LogParty: Display: UpdateChangeCallbacks: Getting Team Member Info for [Player] Id [Player].
+
+LogParty: Display: [Player] Id [Player] team member data updated, team [MAX] at index [0] in [Player]'s game.
+
+LogFort: Display: [FortCustomizationAssetLoader HID_001_Athena_Commando_F] Finished loading. 1 assets loaded.
+
+LogCore: Display: Setting hang detector multiplier to 1.0000s. New hang duration: 0.0000s.
+
+URL: cdn2.unrealengine.com/Fortnite/fortnite-game/playlisttiles/BR_LobbyTileArt_Solo-512x512-24446ea2a54612c5604ecf0e30475b4dec81c3bc.png
+URL: cdn2.unrealengine.com/Fortnite/fortnite-game/playlisttiles/BR_LobbyTileArt_Duo-512x512-5dea8dfae97bddcd4e204dd47bfb245d3f68fc7b.png
+URL: cdn2.unrealengine.com/Fortnite/fortnite-game/playlisttiles/BR_LobbyTileArt_Squad-512x512-5225ec6ca3265611957834c2c549754fe1778449.png
+LogStreaming: Display: Flushing async loaders.
+
+LogHotfixManager: Display: Update State UpdateComplete -> UpdatePending
+LogHotfixManager: Display: Returning cached update result 1
+
+LogHotfixManager: Display: CheckComplete UpdateSuccess
+
+LogHotfixManager: Display: External CheckComplete UpdateSuccess
+
+LogHotfixManager: Display: Update State UpdatePending -> UpdateComplete
+
+LogOnlineParty: Display: OSS::Party: Publishing party to presence McpDisplayName(Player) PlatformDisplayName(Player) Platform(epic) PartyId(C195DC794CF2BFB2C66E65A8B2A75B54) AccessKey(D3C3348844FAEE842EC01796C5ECA5D8) HasPassword(0) IsAcceptingMembers(0) NotAcceptingReason(1)
+
+LogParty: Display: UpdateChangeCallbacks: Getting Team Member Info for [Player] Id [Player].
+
+LogParty: Display: [Player] Id [Player] team member data updated, team [MAX] at index [0] in [Player]'s game.
+
+LogStreaming: Error: Couldn't find file for package /Script/Foliage requested by async loading code. NameToLoad: /Script/Foliage
+
+LogStreaming: Error: Found 0 dependent packages...
+
+LogStreaming: Error: Couldn't find file for package /Script/FortniteGame requested by async loading code. NameToLoad: /Script/FortniteGame
+
+LogStreaming: Error: Found 0 dependent packages...
+
+LogParty: Display: UpdateChangeCallbacks: Getting Team Member Info for [Player] Id [Player].
+
+LogParty: Display: [Player] Id [Player] team member data updated, team [MAX] at index [0] in [Player]'s game.
+
+URL: fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/matchmakingservice/ticket/player/Player
+LogCore: Error: Hitch detected on gamethread (frame hasn't finished for   504.39ms):
+LogCore: Error: Leaving stat scope on hitch (+  504.39ms) [OnlineAsyncTaskThreadMcp DefaultInstance] STAT_EventWait
+
+LogCore: Error: Leaving stat scope on hitch (+  505.41ms) [FMediaTicker] STAT_Sleep
+LogCore: Error: Leaving stat scope on hitch (+  505.41ms) [RTHeartBeat 1] STAT_Sleep
+
+LogCore: Error: Leaving stat scope on hitch (+  505.42ms) [PoolThread 14] STAT_EventWait
+LogCore: Error: Leaving stat scope on hitch (+  505.45ms) [PoolThread 14] STAT_FQueuedThread_Run_WaitForWork
+LogCore: Error: Leaving stat scope on hitch (+  505.45ms) [RenderThread 1] STAT_EventWait
+
+LogCore: Error: Leaving stat scope on hitch (+  511.01ms) [PoolThread 7] STAT_EventWaitLogCore: Error: Leaving stat scope on hitch (+  511.01ms) [PoolThread 5] STAT_EventWaitLogCore: Error: Leaving stat scope on hitch (+  511.02ms) [PoolThread 4] STAT_EventWait
+
+LogCore: Error: Leaving stat scope on hitch (+  511.03ms) [PoolThread 6] STAT_EventWait
+LogCore: Error: Leaving stat scope on hitch (+  511.04ms) [PoolThread 12] STAT_EventWait
+
+LogCore: Error: Leaving stat scope on hitch (+  511.05ms) [PoolThread 11] STAT_EventWaitLogCore: Error: Leaving stat scope on hitch (+  511.02ms) [PoolThread 9] STAT_EventWaitLogCore: Error: Leaving stat scope on hitch (+  511.07ms) [PoolThread 6] STAT_FQueuedThread_Run_WaitForWorkLogCore: Error: Leaving stat scope on hitch (+  511.04ms) [PoolThread 10] STAT_EventWait
+LogCore: Error: Leaving stat scope on hitch (+  511.01ms) [PoolThread 3] STAT_EventWait
+
+LogCore: Error: Leaving stat scope on hitch (+  511.10ms) [PoolThread 9] STAT_FQueuedThread_Run_WaitForWorkLogCore: Error: Leaving stat scope on hitch (+  511.10ms) [PoolThread 10] STAT_FQueuedThread_Run_WaitForWork
+LogCore: Error: Leaving stat scope on hitch (+  511.10ms) [PoolThread 3] STAT_FQueuedThread_Run_WaitForWork
+
+LogCore: Error: Leaving stat scope on hitch (+  511.06ms) [PoolThread 7] STAT_FQueuedThread_Run_WaitForWorkLogCore: Error: Leaving stat scope on hitch (+  511.01ms) [PoolThread 18] STAT_EventWait
+
+LogCore: Error: Leaving stat scope on hitch (+  511.01ms) [PoolThread 1] STAT_EventWaitLogCore: Error: Leaving stat scope on hitch (+  511.17ms) [PoolThread 4] STAT_FQueuedThread_Run_WaitForWork
+
+LogCore: Error: Leaving stat scope on hitch (+  511.01ms) [PoolThread 19] STAT_EventWaitLogCore: Error: Leaving stat scope on hitch (+  511.18ms) [PoolThread 1] STAT_FQueuedThread_Run_WaitForWork
+
+LogCore: Error: Leaving stat scope on hitch (+  511.18ms) [PoolThread 12] STAT_FQueuedThread_Run_WaitForWork
+LogCore: Error: Leaving stat scope on hitch (+  511.01ms) [PoolThread 8] STAT_EventWaitLogCore: Error: Leaving stat scope on hitch (+  511.01ms) [PoolThread 13] STAT_EventWait
+LogCore: Error: Leaving stat scope on hitch (+  511.02ms) [PoolThread 16] STAT_EventWait
+LogCore: Error: Leaving stat scope on hitch (+  511.21ms) [PoolThread 19] STAT_FQueuedThread_Run_WaitForWork
+LogCore: Error: Leaving stat scope on hitch (+  511.05ms) [PoolThread 2] STAT_EventWaitLogCore: Error: Leaving stat scope on hitch (+  511.02ms) [PoolThread 17] STAT_EventWait
+
+LogCore: Error: Leaving stat scope on hitch (+  511.24ms) [PoolThread 13] STAT_FQueuedThread_Run_WaitForWork
+LogCore: Error: Leaving stat scope on hitch (+  511.24ms) [PoolThread 17] STAT_FQueuedThread_Run_WaitForWork
+
+
+LogCore: Error: Leaving stat scope on hitch (+  511.25ms) [PoolThread 11] STAT_FQueuedThread_Run_WaitForWork
+
+
+LogCore: Error: Leaving stat scope on hitch (+  511.26ms) [PoolThread 18] STAT_FQueuedThread_Run_WaitForWork
+LogCore: Error: Leaving stat scope on hitch (+  511.01ms) [PoolThread 0] STAT_EventWaitLogCore: Error: Leaving stat scope on hitch (+  511.27ms) [PoolThread 8] STAT_FQueuedThread_Run_WaitForWork
+
+
+LogCore: Error: Leaving stat scope on hitch (+  511.28ms) [PoolThread 0] STAT_FQueuedThread_Run_WaitForWork
+LogCore: Error: Leaving stat scope on hitch (+  511.29ms) [PoolThread 5] STAT_FQueuedThread_Run_WaitForWork
+LogCore: Error: Leaving stat scope on hitch (+  511.29ms) [PoolThread 16] STAT_FQueuedThread_Run_WaitForWork
+
+LogCore: Error: Leaving stat scope on hitch (+  511.30ms) [PoolThread 2] STAT_FQueuedThread_Run_WaitForWork
+
+LogCore: Error: Leaving stat scope on hitch (+  512.08ms) [PoolThread 15] STAT_EventWait
+
+LogCore: Error: Leaving stat scope on hitch (+  512.10ms) [PoolThread 15] STAT_FQueuedThread_Run_WaitForWork
+
+LogCore: Error: Leaving stat scope on hitch (+  522.89ms) [FAsyncLoadingThread] STAT_EventWait
+
+LogCore: Error: ------Stack start
+
+LogCore: Error:   0x00007ffc73fb1454 ntdll.dll!UnknownFunction []
+LogCore: Error:   0x00007ffc714c6dcb KERNELBASE.dll!UnknownFunction []
+LogCore: Error:   0x00007ffc714fdd36 KERNELBASE.dll!UnknownFunction []
+LogCore: Error:   0x00007ffc725461f4 KERNEL32.DLL!UnknownFunction []
+LogCore: Error:   0x00007ff68c6c6d95 FortniteClient-Win64-Shipping.exe!UnknownFunction []
+LogCore: Error:   0x00007ff68c6c9cbc FortniteClient-Win64-Shipping.exe!UnknownFunction []
+LogCore: Error:   0x00007ff68c6c96c7 FortniteClient-Win64-Shipping.exe!UnknownFunction []
+LogCore: Error:   0x00007ff68dc61dc3 FortniteClient-Win64-Shipping.exe!UnknownFunction []
+LogCore: Error:   0x00007ff68de9649f FortniteClient-Win64-Shipping.exe!UnknownFunction []
+LogCore: Error:   0x00007ff68c73abc2 FortniteClient-Win64-Shipping.exe!UnknownFunction []
+
+LogCore: Error:   0x00007ff68c840920 FortniteClient-Win64-Shipping.exe!UnknownFunction []
+LogCore: Error:   0x00007ff68c849790 FortniteClient-Win64-Shipping.exe!UnknownFunction []
+LogCore: Error:   0x00007ff68c84f4d5 FortniteClient-Win64-Shipping.exe!UnknownFunction []
+LogCore: Error:   0x00007ff68c84a17f FortniteClient-Win64-Shipping.exe!UnknownFunction []
+LogCore: Error:   0x00007ff68c840c15 FortniteClient-Win64-Shipping.exe!UnknownFunction []
+LogCore: Error:   0x00007ff68c84a17f FortniteClient-Win64-Shipping.exe!UnknownFunction []
+LogCore: Error:   0x00007ff68c73abc2 FortniteClient-Win64-Shipping.exe!UnknownFunction []
+LogCore: Error:   0x00007ff68c84a000 FortniteClient-Win64-Shipping.exe!UnknownFunction []
+LogCore: Error:   0x00007ff68b5d5b9d FortniteClient-Win64-Shipping.exe!UnknownFunction []
+LogCore: Error:   0x00007ff68b5f84ea FortniteClient-Win64-Shipping.exe!UnknownFunction []
+
+LogCore: Error:   0x00007ff68b5f290e FortniteClient-Win64-Shipping.exe!UnknownFunction []
+LogCore: Error:   0x00007ff68c73abc2 FortniteClient-Win64-Shipping.exe!UnknownFunction []
+LogCore: Error:   0x00007ff68c84a000 FortniteClient-Win64-Shipping.exe!UnknownFunction []
+LogCore: Error:   0x00007ff68b5d5b9d FortniteClient-Win64-Shipping.exe!UnknownFunction []
+LogCore: Error:   0x00007ff68d0f32b7 FortniteClient-Win64-Shipping.exe!UnknownFunction []
+LogCore: Error:   0x00007ff68b612949 FortniteClient-Win64-Shipping.exe!UnknownFunction []
+LogCore: Error:   0x00007ff68b5ec7dd FortniteClient-Win64-Shipping.exe!UnknownFunction []
+LogCore: Error:   0x00007ff68ca0706a FortniteClient-Win64-Shipping.exe!UnknownFunction []
+LogCore: Error:   0x00007ff68b5fdbc3 FortniteClient-Win64-Shipping.exe!UnknownFunction []
+LogCore: Error:   0x00007ff68c94f0e1 FortniteClient-Win64-Shipping.exe!UnknownFunction []
+LogCore: Error:   0x00007ff68c94781c FortniteClient-Win64-Shipping.exe!UnknownFunction []
+LogCore: Error:   0x00007ff68c98273d FortniteClient-Win64-Shipping.exe!UnknownFunction []
+
+LogCore: Error:   0x00007ff68c977cd2 FortniteClient-Win64-Shipping.exe!UnknownFunction []
+LogCore: Error:   0x00007ff68c9712f4 FortniteClient-Win64-Shipping.exe!UnknownFunction []
+LogCore: Error:   0x00007ff68c6ee2a7 FortniteClient-Win64-Shipping.exe!UnknownFunction []
+LogCore: Error:   0x00007ff68c6e5f94 FortniteClient-Win64-Shipping.exe!UnknownFunction []
+LogCore: Error:   0x00007ff68c6efca1 FortniteClient-Win64-Shipping.exe!UnknownFunction []
+LogCore: Error:   0x00007ff68c6e3e58 FortniteClient-Win64-Shipping.exe!UnknownFunction []
+LogCore: Error:   0x00007ffc73d389a1 USER32.dll!UnknownFunction []
+LogCore: Error:   0x00007ffc73d38461 USER32.dll!UnknownFunction []
+LogCore: Error:   0x00007ffbdf16bd17 libcef.dll!UnknownFunction []
+LogCore: Error:   0x00007ffbdf16b902 libcef.dll!UnknownFunction []
+LogCore: Error:   0x00007ffbdf16b564 libcef.dll!UnknownFunction []
+LogCore: Error:   0x00007ffbdf138740 libcef.dll!UnknownFunction []
+
+LogCore: Error:   0x00007ffbe0b0ecf0 libcef.dll!UnknownFunction []
+LogCore: Error:   0x00007ffbe0abe798 libcef.dll!UnknownFunction []
+LogCore: Error:   0x00007ff68db2ca05 FortniteClient-Win64-Shipping.exe!UnknownFunction []
+LogCore: Error:   0x00007ff68c5d4924 FortniteClient-Win64-Shipping.exe!UnknownFunction []
+LogCore: Error:   0x00007ff68b5be7c9 FortniteClient-Win64-Shipping.exe!UnknownFunction []
+LogCore: Error:   0x00007ff68b5c492c FortniteClient-Win64-Shipping.exe!UnknownFunction []
+LogCore: Error:   0x00007ff68b5c498a FortniteClient-Win64-Shipping.exe!UnknownFunction []
+LogCore: Error:   0x00007ff68b5cbf5f FortniteClient-Win64-Shipping.exe!UnknownFunction []
+LogCore: Error:   0x00007ff68e38c687 FortniteClient-Win64-Shipping.exe!UnknownFunction []
+LogCore: Error:   0x00007ffc7254257d KERNEL32.DLL!UnknownFunction []
+LogCore: Error:   0x00007ffc73f6aa48 ntdll.dll!UnknownFunction []
+LogCore: Error:   0x00007ffc73f6aa48 ntdll.dll!UnknownFunction []
+LogCore: Error: ------Stack end
+LogCore: Error:  ## Stack tracing took 0.034200 seconds.
+
+LogCore: Error: Leaving hitch detector (+  538.68ms)
+
+LogCore: Error: Leaving stat scope on hitch (+  637.71ms) [GameThread] STAT_ProcessMouseButtonUp
+
+LogCore: Error: Leaving stat scope on hitch (+  638.50ms) [GameThread] STAT_FTicker_Tick
+
+LogCore: Error: Leaving stat scope on hitch (+  638.52ms) [GameThread] STAT_DeferredTickTime
+LogCore: Error: Leaving stat scope on hitch (+  638.54ms) [GameThread] STAT_FrameTime
+
+LogCore: Error: FGameThreadHitchHeartBeat Flushed Thread [RenderThread 1]
+LogCore: Error: FGameThreadHitchHeartBeat Flushed Thread [GameThread]
+LogCore: Error: Leaving stat scope on hitch (+    0.02ms) [AudioThread] STAT_EventWait
+LogCore: Error: FGameThreadHitchHeartBeat Flushed Thread [AudioThread]
+
+URL: fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/matchmaking/session/cf35fc005f3f4bcab09aa98445dcf9db
+URL: fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/matchmaking/account/Player/session/cf35fc005f3f4bcab09aa98445dcf9db
+URL: fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/matchmaking/session/cf35fc005f3f4bcab09aa98445dcf9db/join
+LogParty: Display: UpdateChangeCallbacks: Getting Team Member Info for [Player] Id [Player].
+
+LogParty: Display: [Player] Id [Player] team member data updated, team [MAX] at index [0] in [Player]'s game.
+
+LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+
+LogCore: Display: Setting hang detector multiplier to 3.0000s. New hang duration: 0.0000s.
+
+URL: datarouter.ol.epicgames.com/datarouter/api/v1/public/data
+URL: account-public-service-prod03.ol.epicgames.com/account/api/oauth/verify
+URL: datarouter.ol.epicgames.com/datarouter/api/v1/public/data
+LogFort: Warning: Network lag has been detected. Enabling diagnostics. PendingNetDriver IpNetDriver_0
+
+LogNet: Warning: UNetConnection::Tick: Connection TIMED OUT. Closing connection.. Elapsed: 60.10, Real: 60.00, Good: 60.00, DriverTime: 60.10, Threshold: 60.00, [UNetConnection] RemoteAddr: 87.114.27.217:7777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_0, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+
+LogNet: Warning: Network Failure: PendingNetDriver[ConnectionTimeout]: UNetConnection::Tick: Connection TIMED OUT. Closing connection.. Elapsed: 60.10, Real: 60.00, Good: 60.00, DriverTime: 60.10, Threshold: 60.00, [UNetConnection] RemoteAddr: 87.114.27.217:7777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_0, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+LogGameMode: Display: Match State Changed from LeavingMap to Aborted
+
+LogNet: Warning: Network Failure: PendingNetDriver[PendingConnectionFailure]: Your connection to the host has been lost.
+
+LogGameMode: Display: Match State Changed from Aborted to LeavingMap
+
+LogOnline: Error: OSS: Attempted to remove binding that could not be found for player Player type twitch/viewer-granted-quest
+LogOnline: Error: OSS: Attempted to remove binding that could not be found for player Player type twitch/viewer-completed-quest
+LogOnline: Error: OSS: Attempted to remove binding that could not be found for player Player type twitch/pending-quest
+LogOnline: Error: OSS: Attempted to remove binding that could not be found for player Player type levelUp
+LogOnline: Error: OSS: Attempted to remove binding that could not be found for player Player type lootGrant
+
+LogOnline: Error: OSS: Attempted to remove binding that could not be found for player Player type missionComplete
+
+LogOnline: Error: OSS: Attempted to remove binding that could not be found for player Player type earnScore
+LogOnline: Error: OSS: Attempted to remove binding that could not be found for player Player type receivedGiftedBoostXp
+
+LogFort: Warning: Removed effect Default__GE_Map_Commando_Offense_AllWeaponDamage_C but it wasn't found in the tracking data used by tooltips.
+
+LogFort: Warning: Removed effect Default__GE_Map_Commando_Prowess_TrapDamage_C but it wasn't found in the tracking data used by tooltips.
+
+LogFort: Warning: Removed effect Default__GE_Map_Commando_Prowess_TrapDamage_C but it wasn't found in the tracking data used by tooltips.
+LogFort: Warning: Removed effect Default__GE_Map_Commando_Prowess_TrapDamage_C but it wasn't found in the tracking data used by tooltips.
+LogFort: Warning: Removed effect Default__GE_Map_Commando_Prowess_TrapDamage_C but it wasn't found in the tracking data used by tooltips.
+
+LogFort: Warning: Removed effect Default__GE_Map_Commando_Vitality_Health_C but it wasn't found in the tracking data used by tooltips.
+LogFort: Warning: Removed effect Default__GE_Map_Commando_Vitality_Health_C but it wasn't found in the tracking data used by tooltips.
+
+LogFort: Warning: Removed effect Default__GE_Map_Commando_Defense_ShieldStrength_ShieldRegen_C but it wasn't found in the tracking data used by tooltips.
+LogFort: Warning: Removed effect Default__GE_Map_Commando_Defense_ShieldStrength_ShieldRegen_C but it wasn't found in the tracking data used by tooltips.
+
+LogParty: Display: HandleZonePlayerStateRemoved: [Player]
+
+URL: datarouter.ol.epicgames.com/datarouter/api/v1/public/data
+LogStreaming: Display: Flushing async loaders.
+
+LogStreaming: Display: /Game/Maps/Frontend is prestreaming /Game/Maps/FrontEnd/Maps/FrontEndStore
+
+LogStreaming: Display: /Game/Maps/Frontend is prestreaming /Game/Maps/UI/Frontend_BG_Main
+
+LogConsoleResponse: Display: Apply Settings:
+
+LogConsoleManager: Warning: Setting the console variable 'r.SimpleForwardShading' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '0'
+
+LogConsoleResponse: Display: 
+
+LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+
+LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/FrontEnd/FortniteWorldMap) is flushing async loading
+
+LogVivoxVoiceChat: Warning: onConnectFailed https://fnwp.www.vivox.com/api2/ couldn't resolve host name (10006)
+
+LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/FortniteTownmap) is flushing async loading
+
+URL: fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/Player/client/QueryProfile
+LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/UI/Frontend_SkillTree) is flushing async loading
+
+LogStreaming: Display: Flushing async loaders.
+
+LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/FrontEnd/Maps/FrontEndStore_Pinata) is flushing async loading
+
+LogStreaming: Display: Flushing async loaders.
+
+URL: fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/chat/Player/recommendGeneralChatRooms/Athena/pc
+LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/UI/Frontend_Lobby) is flushing async loading
+
+LogStreaming: Display: Flushing async loaders.
+
+LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/WorldLightingMenu) is flushing async loading
+
+LogStreaming: Display: Flushing async loaders.
+
+LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/UI/Frontend_Lobby_Season4) is flushing async loading
+
+LogOnline: Warning: Attempting to global join room lawinserverglobal while already in (0) or already joining (1) a room
+
+LogOnlineAccount: Warning: Will try requesting chatroom recommendations again in 175 seconds.
+
+URL: fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/Player/client/QueryProfile
+URL: fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/Player/client/QueryProfile
+LogStreaming: Display: Flushing async loaders.
+
+LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+
+LogHotfixManager: Display: Update State UpdateComplete -> UpdatePending
+
+LogHotfixManager: Display: Update State UpdatePending -> CheckingForPatch
+
+URL: fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/v2/versioncheck/Windows
+LogHotfixManager: Display: Update State CheckingForPatch -> CheckingForHotfix
+
+URL: fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/cloudstorage/system
+LogHotfixManager: Display: Returned hotfix data is the same as last application, skipping the apply phase
+
+LogHotfixManager: Display: Checking for assets to be patched using data from 'AssetHotfix' section in the Game .ini file
+LogHotfixManager: Display: No assets were found in the 'AssetHotfix' section in the Game .ini file.  No patching needed.
+LogHotfixManager: Display: OnHotfixCheckComplete 2
+
+LogVivoxVoiceChat: Warning: onConnectFailed https://fnwp.www.vivox.com/api2/ couldn't resolve host name (10006)
+
+LogHotfixManager: Display: Update State CheckingForHotfix -> WaitingOnInitialLoad
+
+LogHotfixManager: Display: Update State WaitingOnInitialLoad -> InitialLoadComplete
+
+LogHotfixManager: Display: CheckComplete UpdateSuccess_NoChange
+
+LogHotfixManager: Display: External CheckComplete UpdateSuccess_NoChange
+LogHotfixManager: Display: Update State InitialLoadComplete -> UpdateComplete
+LogFort: Display: AFortGameModeFrontEnd::OnUpdateCheckComplete called. Result=2
+
+LogFortUI: Display: [UFortUIManagerWidget_NUI::SetUIState] states from: Invalid to: FrontEnd
+
+LogFortUI: Display: [UFortUIManagerWidget_NUI::TransitionToNextState] Switching states from: FrontEnd to: Invalid
+
+LogDataTable: Warning: UDataTable::FindRow : 'UFortGlobalUIContext::GetHealthyGamingData' requested row 'US' not in DataTable '/Game/UI/Foundation/Config/HealthyGamingData.HealthyGamingData'.
+
+LogOnlineParty: Display: OSS::Party: Publishing party to presence McpDisplayName(Player) PlatformDisplayName(Player) Platform(epic) PartyId(C195DC794CF2BFB2C66E65A8B2A75B54) AccessKey(D3C3348844FAEE842EC01796C5ECA5D8) HasPassword(0) IsAcceptingMembers(1) NotAcceptingReason(0)
+
+LogParty: Display: UpdateChangeCallbacks: Getting Team Member Info for [Player] Id [Player].
+
+LogParty: Display: [Player] Id [Player] team member data updated, team [MAX] at index [0] in [Player]'s game.
+
+URL: fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/Player/client/ClientQuestLogin
+LogParty: Display: OnLeavePartyInternalComplete() C195DC794CF2BFB2C66E65A8B2A75B54 Succeeded.
+
+LogParty: Display: UFortPartyContext::HandlePartyLeft: PartyState [C195DC794CF2BFB2C66E65A8B2A75B54], Reason Left
+
+LogParty: Display: Local player [Player] (ID [Player]) left party [C195DC794CF2BFB2C66E65A8B2A75B54]
+
+LogParty: Display: Local player [Player] disconnected from lobby. Destroying all team info except the local party.
+
+LogParty: Display: UParty::OnLeavePersistentPartyComplete: Succeeded
+
+LogParty: Display: OnLeavePersistentPartyAndRestore Result: Succeeded
+
+LogOnlineParty: Display: OSS::Party: Publishing party to presence McpDisplayName(Player) PlatformDisplayName(Player) Platform(epic) PartyId(BDC6FA804B7AF4D049D32AAE907D0D23) AccessKey(7C96F4134E4C5851BDFC388211D0D788) HasPassword(0) IsAcceptingMembers(1) NotAcceptingReason(0)
+
+LogParty: Display: OnCreatePartyInternalComplete() BDC6FA804B7AF4D049D32AAE907D0D23 Succeeded
+
+LogParty: Display: Local player [Player] (ID [Player]) joined a new party [BDC6FA804B7AF4D049D32AAE907D0D23].
+
+LogParty: Display: OnCreatePersistentPartyComplete() Succeeded
+
+LogParty: Display: New party member state for [Player] Id [Player] added to the local player's party [BDC6FA804B7AF4D049D32AAE907D0D23].
+
+LogParty: Display: Removing [Player] Id [Player] from [Player]'s team.
+
+LogParty: Display: Adding [Player] Id [Player] as a new member to [Player]'s party via an existing UITeamMember in [Player]'s game.
+LogParty: Display: New member [MCP:Player] added to UI Party led by [MCP:Player] platform id [INVALID]
+
+LogParty: Display: UpdateChangeCallbacks: Getting Team Member Info for [Player] Id [Player].
+LogParty: Display: [Player] Id [Player] team member data updated, team [MAX] at index [0] in [Player]'s game.
+
+LogParty: Display: UpdateChangeCallbacks: Getting Team Member Info for [Player] Id [Player].
+
+LogParty: Display: [Player] Id [Player] team member data updated, team [MAX] at index [0] in [Player]'s game.
+
+LogParty: Display: UpdateChangeCallbacks: Getting Team Member Info for [Player] Id [Player].
+LogParty: Display: [Player] Id [Player] team member data updated, team [MAX] at index [0] in [Player]'s game.
+
+LogParty: Display: [C195DC794CF2BFB2C66E65A8B2A75B54]: Missing party state during exit
+
+LogFort: Display: [FortCustomizationAssetLoader HID_001_Athena_Commando_F] Finished loading. 1 assets loaded.
+
+LogVivoxVoiceChat: Warning: onConnectFailed https://fnwp.www.vivox.com/api2/ couldn't resolve host name (10006)
+
+LogCore: Display: Setting hang detector multiplier to 1.0000s. New hang duration: 0.0000s.
+
+LogHotfixManager: Display: Update State UpdateComplete -> UpdatePending
+
+LogHotfixManager: Display: Returning cached update result 2
+
+LogHotfixManager: Display: CheckComplete UpdateSuccess_NoChange
+
+LogVivoxVoiceChat: Warning: onConnectFailed https://fnwp.www.vivox.com/api2/ couldn't resolve host name (10006)
+
+LogHotfixManager: Display: External CheckComplete UpdateSuccess_NoChange
+
+LogHotfixManager: Display: Update State UpdatePending -> UpdateComplete
+
+LogOnlineParty: Display: OSS::Party: Publishing party to presence McpDisplayName(Player) PlatformDisplayName(Player) Platform(epic) PartyId(BDC6FA804B7AF4D049D32AAE907D0D23) AccessKey(7C96F4134E4C5851BDFC388211D0D788) HasPassword(0) IsAcceptingMembers(0) NotAcceptingReason(1)
+
+LogParty: Display: UpdateChangeCallbacks: Getting Team Member Info for [Player] Id [Player].
+
+LogParty: Display: [Player] Id [Player] team member data updated, team [MAX] at index [0] in [Player]'s game.
+
+LogParty: Display: UpdateChangeCallbacks: Getting Team Member Info for [Player] Id [Player].
+
+LogParty: Display: [Player] Id [Player] team member data updated, team [MAX] at index [0] in [Player]'s game.
+
+URL: fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/matchmakingservice/ticket/player/Player
+URL: account-public-service-prod03.ol.epicgames.com/account/api/oauth/verify
+URL: fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/matchmaking/session/cf71010cc26347f9b4bf698edfe9391c
+URL: fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/matchmaking/account/Player/session/cf71010cc26347f9b4bf698edfe9391c
+URL: fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/matchmaking/session/cf71010cc26347f9b4bf698edfe9391c/join
+LogParty: Display: UpdateChangeCallbacks: Getting Team Member Info for [Player] Id [Player].
+LogParty: Display: [Player] Id [Player] team member data updated, team [MAX] at index [0] in [Player]'s game.
+
+LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+
+LogCore: Display: Setting hang detector multiplier to 3.0000s. New hang duration: 0.0000s.
+
+URL: datarouter.ol.epicgames.com/datarouter/api/v1/public/data
+URL: account-public-service-prod03.ol.epicgames.com/account/api/oauth/verify
+LogFort: Warning: Network lag has been detected. Enabling diagnostics. PendingNetDriver IpNetDriver_1
+
+LogNet: Warning: UNetConnection::Tick: Connection TIMED OUT. Closing connection.. Elapsed: 60.10, Real: 60.00, Good: 60.00, DriverTime: 60.10, Threshold: 60.00, [UNetConnection] RemoteAddr: 87.114.27.217:7777, Name: IpConnection_1, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+LogNet: Warning: Network Failure: PendingNetDriver[ConnectionTimeout]: UNetConnection::Tick: Connection TIMED OUT. Closing connection.. Elapsed: 60.10, Real: 60.00, Good: 60.00, DriverTime: 60.10, Threshold: 60.00, [UNetConnection] RemoteAddr: 87.114.27.217:7777, Name: IpConnection_1, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+LogGameMode: Display: Match State Changed from LeavingMap to Aborted
+
+LogNet: Warning: Network Failure: PendingNetDriver[PendingConnectionFailure]: Your connection to the host has been lost.
+
+LogGameMode: Display: Match State Changed from Aborted to LeavingMap
+
+LogOnline: Error: OSS: Attempted to remove binding that could not be found for player Player type twitch/viewer-granted-quest
+
+LogOnline: Error: OSS: Attempted to remove binding that could not be found for player Player type twitch/viewer-completed-quest
+LogOnline: Error: OSS: Attempted to remove binding that could not be found for player Player type twitch/pending-quest
+LogOnline: Error: OSS: Attempted to remove binding that could not be found for player Player type levelUp
+LogOnline: Error: OSS: Attempted to remove binding that could not be found for player Player type lootGrant
+LogOnline: Error: OSS: Attempted to remove binding that could not be found for player Player type missionComplete
+LogOnline: Error: OSS: Attempted to remove binding that could not be found for player Player type earnScore
+LogOnline: Error: OSS: Attempted to remove binding that could not be found for player Player type receivedGiftedBoostXp
+
+LogParty: Display: HandleZonePlayerStateRemoved: [Player]
+
+URL: datarouter.ol.epicgames.com/datarouter/api/v1/public/data
+LogStreaming: Display: Flushing async loaders.
+
+LogStreaming: Display: /Game/Maps/Frontend is prestreaming /Game/Maps/FrontEnd/Maps/FrontEndStore
+
+LogStreaming: Display: /Game/Maps/Frontend is prestreaming /Game/Maps/UI/Frontend_BG_Main
+
+LogConsoleResponse: Display: Apply Settings:
+
+LogConsoleManager: Warning: Setting the console variable 'r.SimpleForwardShading' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '0'
+
+LogConsoleResponse: Display: 
+
+LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+
+LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/FrontEnd/FortniteWorldMap) is flushing async loading
+
+LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/FortniteTownmap) is flushing async loading
+
+URL: fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/Player/client/QueryProfile
+LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/UI/Frontend_SkillTree) is flushing async loading
+
+LogStreaming: Display: Flushing async loaders.
+
+LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/FrontEnd/Maps/FrontEndStore_Pinata) is flushing async loading
+
+LogStreaming: Display: Flushing async loaders.
+
+LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/UI/Frontend_Lobby) is flushing async loading
+LogStreaming: Display: Flushing async loaders.
+
+LogVivoxVoiceChat: Warning: onConnectFailed https://fnwp.www.vivox.com/api2/ couldn't resolve host name (10006)
+
+LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/WorldLightingMenu) is flushing async loading
+LogStreaming: Display: Flushing async loaders.
+
+LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/UI/Frontend_Lobby_Season4) is flushing async loading
+
+URL: fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/Player/client/QueryProfile
+URL: fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/Player/client/QueryProfile
+LogStreaming: Display: Flushing async loaders.
+
+LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+
+LogHotfixManager: Display: Update State UpdateComplete -> UpdatePending
+
+LogHotfixManager: Display: Update State UpdatePending -> CheckingForPatch
+
+URL: fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/v2/versioncheck/Windows
+LogHotfixManager: Display: Update State CheckingForPatch -> CheckingForHotfix
+
+URL: fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/cloudstorage/system
+LogHotfixManager: Display: Returned hotfix data is the same as last application, skipping the apply phase
+
+LogHotfixManager: Display: Checking for assets to be patched using data from 'AssetHotfix' section in the Game .ini file
+LogHotfixManager: Display: No assets were found in the 'AssetHotfix' section in the Game .ini file.  No patching needed.
+LogHotfixManager: Display: OnHotfixCheckComplete 2
+
+LogHotfixManager: Display: Update State CheckingForHotfix -> WaitingOnInitialLoad
+
+LogHotfixManager: Display: Update State WaitingOnInitialLoad -> InitialLoadComplete
+
+LogHotfixManager: Display: CheckComplete UpdateSuccess_NoChange
+
+LogHotfixManager: Display: External CheckComplete UpdateSuccess_NoChange
+
+LogHotfixManager: Display: Update State InitialLoadComplete -> UpdateComplete
+LogFort: Display: AFortGameModeFrontEnd::OnUpdateCheckComplete called. Result=2
+
+LogFortUI: Display: [UFortUIManagerWidget_NUI::SetUIState] states from: Invalid to: FrontEnd
+
+LogFortUI: Display: [UFortUIManagerWidget_NUI::TransitionToNextState] Switching states from: FrontEnd to: Invalid
+
+LogDataTable: Warning: UDataTable::FindRow : 'UFortGlobalUIContext::GetHealthyGamingData' requested row 'US' not in DataTable '/Game/UI/Foundation/Config/HealthyGamingData.HealthyGamingData'.
+
+LogOnlineParty: Display: OSS::Party: Publishing party to presence McpDisplayName(Player) PlatformDisplayName(Player) Platform(epic) PartyId(BDC6FA804B7AF4D049D32AAE907D0D23) AccessKey(7C96F4134E4C5851BDFC388211D0D788) HasPassword(0) IsAcceptingMembers(1) NotAcceptingReason(0)
+
+LogParty: Display: UpdateChangeCallbacks: Getting Team Member Info for [Player] Id [Player].
+LogParty: Display: [Player] Id [Player] team member data updated, team [MAX] at index [0] in [Player]'s game.
+
+URL: fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/Player/client/ClientQuestLogin
+LogParty: Display: OnLeavePartyInternalComplete() BDC6FA804B7AF4D049D32AAE907D0D23 Succeeded.
+
+LogParty: Display: UFortPartyContext::HandlePartyLeft: PartyState [BDC6FA804B7AF4D049D32AAE907D0D23], Reason Left
+
+LogParty: Display: Local player [Player] (ID [Player]) left party [BDC6FA804B7AF4D049D32AAE907D0D23]
+
+LogParty: Display: Local player [Player] disconnected from lobby. Destroying all team info except the local party.
+
+LogParty: Display: UParty::OnLeavePersistentPartyComplete: Succeeded
+
+LogParty: Display: OnLeavePersistentPartyAndRestore Result: Succeeded
+
+LogOnlineParty: Display: OSS::Party: Publishing party to presence McpDisplayName(Player) PlatformDisplayName(Player) Platform(epic) PartyId(3897D6E841786547C6CC14BD6D0AE813) AccessKey(38ED28C44DC65C8590C5E6A216A0EAEB) HasPassword(0) IsAcceptingMembers(1) NotAcceptingReason(0)
+
+LogParty: Display: OnCreatePartyInternalComplete() 3897D6E841786547C6CC14BD6D0AE813 Succeeded
+
+LogParty: Display: Local player [Player] (ID [Player]) joined a new party [3897D6E841786547C6CC14BD6D0AE813].
+
+LogParty: Display: OnCreatePersistentPartyComplete() Succeeded
+
+LogParty: Warning: UpdatePartyMemberState: Invalid internal party!
+
+LogParty: Display: New party member state for [Player] Id [Player] added to the local player's party [3897D6E841786547C6CC14BD6D0AE813].
+
+LogParty: Display: Removing [Player] Id [Player] from [Player]'s team.
+
+LogParty: Display: Adding [Player] Id [Player] as a new member to [Player]'s party via an existing UITeamMember in [Player]'s game.
+LogParty: Display: New member [MCP:Player] added to UI Party led by [MCP:Player] platform id [INVALID]
+LogParty: Display: UpdateChangeCallbacks: Getting Team Member Info for [Player] Id [Player].
+
+LogParty: Display: [Player] Id [Player] team member data updated, team [MAX] at index [0] in [Player]'s game.
+
+LogParty: Display: UpdateChangeCallbacks: Getting Team Member Info for [Player] Id [Player].
+LogParty: Display: [Player] Id [Player] team member data updated, team [MAX] at index [0] in [Player]'s game.
+
+LogParty: Display: UpdateChangeCallbacks: Getting Team Member Info for [Player] Id [Player].
+
+LogParty: Display: [Player] Id [Player] team member data updated, team [MAX] at index [0] in [Player]'s game.
+
+LogParty: Display: [BDC6FA804B7AF4D049D32AAE907D0D23]: Missing party state during exit
+
+LogFort: Display: [FortCustomizationAssetLoader HID_001_Athena_Commando_F] Finished loading. 1 assets loaded.
+
+LogVivoxVoiceChat: Warning: onConnectFailed https://fnwp.www.vivox.com/api2/ couldn't resolve host name (10006)
+
+LogCore: Display: Setting hang detector multiplier to 1.0000s. New hang duration: 0.0000s.
+
+LogVivoxVoiceChat: Warning: onConnectFailed https://fnwp.www.vivox.com/api2/ couldn't resolve host name (10006)
+
+LogVivoxVoiceChat: Warning: onConnectFailed https://fnwp.www.vivox.com/api2/ couldn't resolve host name (10006)
+
+LogHotfixManager: Display: Update State UpdateComplete -> UpdatePending
+
+LogHotfixManager: Display: Returning cached update result 2
+
+LogHotfixManager: Display: CheckComplete UpdateSuccess_NoChange
+
+LogHotfixManager: Display: External CheckComplete UpdateSuccess_NoChange
+
+LogHotfixManager: Display: Update State UpdatePending -> UpdateComplete
+
+LogOnlineParty: Display: OSS::Party: Publishing party to presence McpDisplayName(Player) PlatformDisplayName(Player) Platform(epic) PartyId(3897D6E841786547C6CC14BD6D0AE813) AccessKey(38ED28C44DC65C8590C5E6A216A0EAEB) HasPassword(0) IsAcceptingMembers(0) NotAcceptingReason(1)
+
+LogParty: Display: UpdateChangeCallbacks: Getting Team Member Info for [Player] Id [Player].
+LogParty: Display: [Player] Id [Player] team member data updated, team [MAX] at index [0] in [Player]'s game.
+
+LogParty: Display: UpdateChangeCallbacks: Getting Team Member Info for [Player] Id [Player].
+
+LogParty: Display: [Player] Id [Player] team member data updated, team [MAX] at index [0] in [Player]'s game.
+
+URL: fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/matchmakingservice/ticket/player/Player
+URL: account-public-service-prod03.ol.epicgames.com/account/api/oauth/verify
+URL: fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/matchmaking/session/18a7699ab85845648576dd1f10283746
+URL: fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/matchmaking/account/Player/session/18a7699ab85845648576dd1f10283746
+URL: fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/matchmaking/session/18a7699ab85845648576dd1f10283746/join
+LogParty: Display: UpdateChangeCallbacks: Getting Team Member Info for [Player] Id [Player].
+LogParty: Display: [Player] Id [Player] team member data updated, team [MAX] at index [0] in [Player]'s game.
+
+LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+
+LogCore: Display: Setting hang detector multiplier to 3.0000s. New hang duration: 0.0000s.
+
+URL: datarouter.ol.epicgames.com/datarouter/api/v1/public/data
+URL: fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/chat/Player/recommendGeneralChatRooms/Athena/pc
+LogOnline: Warning: Attempting to global join room lawinserverglobal while already in (0) or already joining (1) a room
+
+LogOnlineAccount: Warning: Will try requesting chatroom recommendations again in 195 seconds.
+
+LogFort: Warning: Network lag has been detected. Enabling diagnostics. PendingNetDriver IpNetDriver_2
+
+URL: lightswitch-public-service-prod06.ol.epicgames.com/lightswitch/api/service/bulk/status
+URL: account-public-service-prod03.ol.epicgames.com/account/api/oauth/verify
+LogNet: Warning: UNetConnection::Tick: Connection TIMED OUT. Closing connection.. Elapsed: 60.10, Real: 60.00, Good: 60.00, DriverTime: 60.10, Threshold: 60.00, [UNetConnection] RemoteAddr: 87.114.27.217:7777, Name: IpConnection_2, Driver: PendingNetDriver IpNetDriver_2, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+
+LogNet: Warning: Network Failure: PendingNetDriver[ConnectionTimeout]: UNetConnection::Tick: Connection TIMED OUT. Closing connection.. Elapsed: 60.10, Real: 60.00, Good: 60.00, DriverTime: 60.10, Threshold: 60.00, [UNetConnection] RemoteAddr: 87.114.27.217:7777, Name: IpConnection_2, Driver: PendingNetDriver IpNetDriver_2, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+LogGameMode: Display: Match State Changed from LeavingMap to Aborted
+
+LogNet: Warning: Network Failure: PendingNetDriver[PendingConnectionFailure]: Your connection to the host has been lost.
+
+LogGameMode: Display: Match State Changed from Aborted to LeavingMap
+
+LogOnline: Error: OSS: Attempted to remove binding that could not be found for player Player type twitch/viewer-granted-quest
+
+LogOnline: Error: OSS: Attempted to remove binding that could not be found for player Player type twitch/viewer-completed-quest
+LogOnline: Error: OSS: Attempted to remove binding that could not be found for player Player type twitch/pending-quest
+LogOnline: Error: OSS: Attempted to remove binding that could not be found for player Player type levelUp
+LogOnline: Error: OSS: Attempted to remove binding that could not be found for player Player type lootGrant
+LogOnline: Error: OSS: Attempted to remove binding that could not be found for player Player type missionComplete
+LogOnline: Error: OSS: Attempted to remove binding that could not be found for player Player type earnScore
+LogOnline: Error: OSS: Attempted to remove binding that could not be found for player Player type receivedGiftedBoostXp
+
+LogParty: Display: HandleZonePlayerStateRemoved: [Player]
+
+URL: datarouter.ol.epicgames.com/datarouter/api/v1/public/data
+LogStreaming: Display: Flushing async loaders.
+
+LogStreaming: Display: /Game/Maps/Frontend is prestreaming /Game/Maps/FrontEnd/Maps/FrontEndStore
+
+LogStreaming: Display: /Game/Maps/Frontend is prestreaming /Game/Maps/UI/Frontend_BG_Main
+
+LogConsoleResponse: Display: Apply Settings:
+
+LogConsoleManager: Warning: Setting the console variable 'r.SimpleForwardShading' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '0'
+
+LogConsoleResponse: Display: 
+
+LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+
+LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/FrontEnd/FortniteWorldMap) is flushing async loading
+
+LogVivoxVoiceChat: Warning: onConnectFailed https://fnwp.www.vivox.com/api2/ couldn't resolve host name (10006)
+
+LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/FortniteTownmap) is flushing async loading
+
+URL: fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/Player/client/QueryProfile
+LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/UI/Frontend_SkillTree) is flushing async loading
+LogStreaming: Display: Flushing async loaders.
+
+LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/FrontEnd/Maps/FrontEndStore_Pinata) is flushing async loading
+
+LogStreaming: Display: Flushing async loaders.
+
+LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/UI/Frontend_Lobby) is flushing async loading
+
+LogStreaming: Display: Flushing async loaders.
+
+LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/WorldLightingMenu) is flushing async loading
+
+LogStreaming: Display: Flushing async loaders.
+
+LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/UI/Frontend_Lobby_Season4) is flushing async loading
+
+URL: fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/Player/client/QueryProfile
+URL: fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/Player/client/QueryProfile
+LogStreaming: Display: Flushing async loaders.
+
+LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+
+LogHotfixManager: Display: Update State UpdateComplete -> UpdatePending
+
+LogHotfixManager: Display: Update State UpdatePending -> CheckingForPatch
+
+URL: fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/v2/versioncheck/Windows
+LogHotfixManager: Display: Update State CheckingForPatch -> CheckingForHotfix
+
+URL: fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/cloudstorage/system
+LogHotfixManager: Display: Returned hotfix data is the same as last application, skipping the apply phase
+
+LogHotfixManager: Display: Checking for assets to be patched using data from 'AssetHotfix' section in the Game .ini file
+LogHotfixManager: Display: No assets were found in the 'AssetHotfix' section in the Game .ini file.  No patching needed.
+LogHotfixManager: Display: OnHotfixCheckComplete 2
+
+LogVivoxVoiceChat: Warning: onConnectFailed https://fnwp.www.vivox.com/api2/ couldn't resolve host name (10006)
+
+LogHotfixManager: Display: Update State CheckingForHotfix -> WaitingOnInitialLoad
+
+LogHotfixManager: Display: Update State WaitingOnInitialLoad -> InitialLoadComplete
+LogHotfixManager: Display: CheckComplete UpdateSuccess_NoChange
+
+LogHotfixManager: Display: External CheckComplete UpdateSuccess_NoChange
+
+LogHotfixManager: Display: Update State InitialLoadComplete -> UpdateComplete
+LogFort: Display: AFortGameModeFrontEnd::OnUpdateCheckComplete called. Result=2
+
+LogFortUI: Display: [UFortUIManagerWidget_NUI::SetUIState] states from: Invalid to: FrontEnd
+
+LogFortUI: Display: [UFortUIManagerWidget_NUI::TransitionToNextState] Switching states from: FrontEnd to: Invalid
+
+LogDataTable: Warning: UDataTable::FindRow : 'UFortGlobalUIContext::GetHealthyGamingData' requested row 'US' not in DataTable '/Game/UI/Foundation/Config/HealthyGamingData.HealthyGamingData'.
+
+LogOnlineParty: Display: OSS::Party: Publishing party to presence McpDisplayName(Player) PlatformDisplayName(Player) Platform(epic) PartyId(3897D6E841786547C6CC14BD6D0AE813) AccessKey(38ED28C44DC65C8590C5E6A216A0EAEB) HasPassword(0) IsAcceptingMembers(1) NotAcceptingReason(0)
+
+LogParty: Display: UpdateChangeCallbacks: Getting Team Member Info for [Player] Id [Player].
+LogParty: Display: [Player] Id [Player] team member data updated, team [MAX] at index [0] in [Player]'s game.
+
+URL: fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/Player/client/ClientQuestLogin
+LogParty: Display: OnLeavePartyInternalComplete() 3897D6E841786547C6CC14BD6D0AE813 Succeeded.
+
+LogParty: Display: UFortPartyContext::HandlePartyLeft: PartyState [3897D6E841786547C6CC14BD6D0AE813], Reason Left
+
+LogParty: Display: Local player [Player] (ID [Player]) left party [3897D6E841786547C6CC14BD6D0AE813]
+
+LogParty: Display: Local player [Player] disconnected from lobby. Destroying all team info except the local party.
+
+LogParty: Display: UParty::OnLeavePersistentPartyComplete: Succeeded
+
+LogParty: Display: OnLeavePersistentPartyAndRestore Result: Succeeded
+
+LogOnlineParty: Display: OSS::Party: Publishing party to presence McpDisplayName(Player) PlatformDisplayName(Player) Platform(epic) PartyId(FCDD7D5046B8E5B04D8AC9AF672EAC43) AccessKey(E40CB4BD46069D20DDFF819686E549DF) HasPassword(0) IsAcceptingMembers(1) NotAcceptingReason(0)
+
+LogParty: Display: OnCreatePartyInternalComplete() FCDD7D5046B8E5B04D8AC9AF672EAC43 Succeeded
+
+LogParty: Display: Local player [Player] (ID [Player]) joined a new party [FCDD7D5046B8E5B04D8AC9AF672EAC43].
+
+LogParty: Display: OnCreatePersistentPartyComplete() Succeeded
+
+LogParty: Warning: UpdatePartyMemberState: Invalid internal party!
+
+LogParty: Display: New party member state for [Player] Id [Player] added to the local player's party [FCDD7D5046B8E5B04D8AC9AF672EAC43].
+
+LogParty: Display: Removing [Player] Id [Player] from [Player]'s team.
+
+LogParty: Display: Adding [Player] Id [Player] as a new member to [Player]'s party via an existing UITeamMember in [Player]'s game.
+LogParty: Display: New member [MCP:Player] added to UI Party led by [MCP:Player] platform id [INVALID]
+LogParty: Display: UpdateChangeCallbacks: Getting Team Member Info for [Player] Id [Player].
+
+LogParty: Display: [Player] Id [Player] team member data updated, team [MAX] at index [0] in [Player]'s game.
+
+LogParty: Display: UpdateChangeCallbacks: Getting Team Member Info for [Player] Id [Player].
+
+LogParty: Display: [Player] Id [Player] team member data updated, team [MAX] at index [0] in [Player]'s game.
+
+LogParty: Display: UpdateChangeCallbacks: Getting Team Member Info for [Player] Id [Player].
+
+LogParty: Display: [Player] Id [Player] team member data updated, team [MAX] at index [0] in [Player]'s game.
+
+LogParty: Display: [3897D6E841786547C6CC14BD6D0AE813]: Missing party state during exit
+
+LogFort: Display: [FortCustomizationAssetLoader HID_001_Athena_Commando_F] Finished loading. 1 assets loaded.
+
+LogVivoxVoiceChat: Warning: onConnectFailed https://fnwp.www.vivox.com/api2/ couldn't resolve host name (10006)
+
+LogCore: Display: Setting hang detector multiplier to 1.0000s. New hang duration: 0.0000s.
+
+LogVivoxVoiceChat: Warning: onConnectFailed https://fnwp.www.vivox.com/api2/ couldn't resolve host name (10006)
+
+URL: datarouter.ol.epicgames.com/datarouter/api/v1/public/data
+LogParty: Display: Local player [Player] disconnected from lobby. Destroying all team info except the local party.
+
+LogOnline: Error: OSS: Attempted to remove binding that could not be found for player Player type twitch/viewer-granted-quest
+
+LogOnline: Error: OSS: Attempted to remove binding that could not be found for player Player type twitch/viewer-completed-quest
+LogOnline: Error: OSS: Attempted to remove binding that could not be found for player Player type twitch/pending-quest
+LogOnline: Error: OSS: Attempted to remove binding that could not be found for player Player type levelUp
+LogOnline: Error: OSS: Attempted to remove binding that could not be found for player Player type lootGrant
+
+LogOnline: Error: OSS: Attempted to remove binding that could not be found for player Player type missionComplete
+LogOnline: Error: OSS: Attempted to remove binding that could not be found for player Player type earnScore
+LogOnline: Error: OSS: Attempted to remove binding that could not be found for player Player type receivedGiftedBoostXp
+
+LogParty: Display: HandleZonePlayerStateRemoved: [Player]
+
+URL: datarouter.ol.epicgames.com/datarouter/api/v1/public/data
+LogBlueprintContext: Display: Destroying blueprint contexts for Local Player ' FortLocalPlayer_0 ' of Game Instance ' FortGameInstance_0 '
+
+URL: datarouter.ol.epicgames.com/datarouter/api/v1/public/data
+LogStreaming: Display: Suspending async loading (1)
+
+LogStreaming: Display: Resuming async loading (0)
+
+LogStreaming: Display: Suspending async loading (1)
+
+LogStreaming: Display: Resuming async loading (0)
+
+LogOnline: Display: OSS: Removing 2 named interfaces
+

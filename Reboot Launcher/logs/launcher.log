@@ -1,0 +1,62 @@
+[APP] Called
+[APP] Starting application
+[APP] Started applications with errors: []
+[GAME] Toggling state(forceGUI: false)
+[GAME] Version data: Instance of 'FortniteVersion'
+[GAME] Setting started...
+[GAME] Set started
+[GAME] Checking dlls: [InjectableDll.console, InjectableDll.cobalt, InjectableDll.reboot, InjectableDll.memory]
+[GAME] Checking dll InjectableDll.console...
+[GAME] Path: C:\Program Files\Reboot Launcher\dlls\console.dll
+[GAME] Path exists
+[GAME] Checking dll InjectableDll.cobalt...
+[GAME] Path: C:\Program Files\Reboot Launcher\dlls\cobalt.dll
+[GAME] Path exists
+[GAME] Checking dll InjectableDll.reboot...
+[GAME] Path: C:\Program Files\Reboot Launcher\dlls\reboot.dll
+[GAME] Path exists
+[GAME] Checking dll InjectableDll.memory...
+[GAME] Path: C:\Program Files\Reboot Launcher\dlls\memory.dll
+[GAME] Path exists
+[GAME] Checking backend(port: embedded, type: embedded)...
+[GAME] Backend works
+[GAME] Implicit game server metadata: headless(true)
+[GAME] Checking if a server needs to be started automatically...
+[GAME] Backend is not set to embedded and/or not pointing to the local game server
+[GAME] Implicit game server result: null
+[GAME] Starting game process...
+[GAME] Starting paused launcher...
+[GAME] Started paused launcher: 17780
+[GAME] Starting paused eac...
+[GAME] Started paused eac: 15608
+[GAME] Using game path: C:\FortniteBuilds\Chapter 1, Season 4 (4.0)\FortniteGame\Binaries\Win64\FortniteClient-Win64-Shipping.exe
+[GAME] Generating instance args...
+[GAME] Generated game args: [-epicapp=Fortnite, -epicenv=Prod, -epiclocale=en-us, -epicportal, -skippatchcheck, -nobe, -fromfl=eac, -fltoken=3db3ba5dcbd2e16703f3978d, -caldera=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2NvdW50X2lkIjoiYmU5ZGE1YzJmYmVhNDQwN2IyZjQwZWJhYWQ4NTlhZDQiLCJnZW5lcmF0ZWQiOjE2Mzg3MTcyNzgsImNhbGRlcmFHdWlkIjoiMzgxMGI4NjMtMmE2NS00NDU3LTliNTgtNGRhYjNiNDgyYTg2IiwiYWNQcm92aWRlciI6IkVhc3lBbnRpQ2hlYXQiLCJub3RlcyI6IiIsImZhbGxiYWNrIjpmYWxzZX0.VAWQB67RTxhiWOxx7DBjnzDnXyyEnX7OljJm-j2d88G_WgwQ9wrE6lwMEHZHjBd1ISJdUO1UVUqkfLdU5nofBQ, -AUTH_LOGIN=Player@projectreboot.dev, -AUTH_PASSWORD=Rebooted, -AUTH_TYPE=epic]
+[GAME] Created game process: 7036
+[GAME] Injecting cobalt into process with pid 7036
+[GAME] Checking dll InjectableDll.cobalt...
+[GAME] Path: C:\Program Files\Reboot Launcher\dlls\cobalt.dll
+[GAME] Path exists
+[GAME] File to inject for cobalt at path File: 'C:\Program Files\Reboot Launcher\dlls\cobalt.dll'
+[GAME] Trying to inject cobalt...
+[GAME] Injected cobalt
+[GAME] Finished creating game instance
+[GAME] Injecting memory into process with pid 7036
+[GAME] Checking dll InjectableDll.memory...
+[GAME] Path: C:\Program Files\Reboot Launcher\dlls\memory.dll
+[GAME] Path exists
+[GAME] File to inject for memory at path File: 'C:\Program Files\Reboot Launcher\dlls\memory.dll'
+[GAME] Trying to inject memory...
+[GAME] Injected memory
+[GAME] Injecting console into process with pid 7036
+[GAME] Checking dll InjectableDll.console...
+[GAME] Path: C:\Program Files\Reboot Launcher\dlls\console.dll
+[GAME] Path exists
+[GAME] File to inject for console at path File: 'C:\Program Files\Reboot Launcher\dlls\console.dll'
+[GAME] Trying to inject console...
+[GAME] Injected console
+[GAME] Called stop with reason _StopReason.normal, error data null null
+[GAME] Caller: #0      _LaunchButtonState._onStop (package:reboot_launcher/src/widget/game_start_button.dart:513)
+<asynchronous suspension>
+
+[GAME] Called exit code, but the game process is no longer running

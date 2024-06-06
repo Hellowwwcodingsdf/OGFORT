@@ -1,0 +1,200 @@
+
+C:\Program Files\Reboot Launcher\data\flutter_assets\assets\build>"C:\Program Files\Reboot Launcher\data\flutter_assets\assets\build\7zip.exe" x -bsp1 -o"C:\FortniteBuilds\Chapter 2, Season 2 (12.61)" -y "C:\FortniteBuilds\Chapter 2, Season 2 (12.61)\.build\12.61.zip" 
+
+
+7-Zip (a) 23.01 (x64) : Copyright (c) 1999-2023 Igor Pavlov : 2023-06-20
+
+Scanning the drive for archives:
+  0M Scan C:\FortniteBuilds\Chapter 2, Season 2 (12.61)\.build\
+                                                               
+1 file, 42166795340 bytes (40 GiB)
+
+Extracting archive: C:\FortniteBuilds\Chapter 2, Season 2 (12.61)\.build\12.61.zip
+
+--
+Path = C:\FortniteBuilds\Chapter 2, Season 2 (12.61)\.build\12.61.zip
+Type = zip
+Physical Size = 42166795340
+64-bit = +
+Characteristics = Zip64
+
+  0%
+      0% 14 - Fortnite\Engine\Binaries\ThirdParty\CEF3\Win64\libcef.dll
+                                                                     0% 15
+         0% 71 - Fortnite\Engine\Binaries\ThirdP . 3\Win64\Resources\locales\te.pak
+                                                                              0% 158 - Fortnite\Engine\Binaries\Win64\CrashReportClient.exe
+                                                                 0% 176 - Fortnite\Engine\Programs\Crash . ent\Paks\CrashReportClient.pak
+                                                                            0% 232 - Fortnite\FortniteGame\Binaries\Win64\BattlEye\BEClient_x64.dll
+                                                                           0% 277 - Fortnite\FortniteGame\Binaries\ . rtniteClient-Win64-Shipping.exe
+                                                                              0% 278
+          0% 339 - Fortnite\FortniteGame\Content\Mo . o\191008_FSTW_Console_EN_h264.mp4
+                                                                                 0% 340
+          0% 340 - Fortnite\FortniteGame\Content\M . TW_Console_EN_h264_ChinaSafe.mp4
+                                                                               0% 362 - Fortnite\FortniteGame\Content\M . RT_PVE_Yarrr_Console_032019.mp4
+                                                                              0% 371 - Fortnite\FortniteGame\Content\Movies\Gadgets\AirStrike_T04.mp4
+                                                                           1% 381 - Fortnite\FortniteGame\Content\Movies\Gadgets\SupplyDrop_T01.mp4
+                                                                            1% 390 - Fortnite\FortniteGame\Content\Movies\HombaseReturn_OutpostIntro.mp4
+                                                                                1% 391
+          1% 395 - Fortnite\FortniteGame\Content\Movies\Onboarding_Appended_Intro.mp4
+                                                                               1% 396
+          1% 404 - Fortnite\FortniteGame\Content\M . ctoryMovies\LaunchRocket_v1.mp4
+                                                                              1% 414 - Fortnite\FortniteGame\Content\Paks\pakchunk0-WindowsClient.pak
+                                                                           2% 414 - Fortnite\FortniteGame\Content\Paks\pakchunk0-WindowsClient.pak
+                                                                           2% 415
+          2% 416 - Fortnite\FortniteGame\Content\Paks\pakchunk10-WindowsClient.pak
+                                                                            3% 416 - Fortnite\FortniteGame\Content\Paks\pakchunk10-WindowsClient.pak
+                                                                            4% 416 - Fortnite\FortniteGame\Content\Paks\pakchunk10-WindowsClient.pak
+                                                                            5% 416 - Fortnite\FortniteGame\Content\Paks\pakchunk10-WindowsClient.pak
+                                                                            6% 416 - Fortnite\FortniteGame\Content\Paks\pakchunk10-WindowsClient.pak
+                                                                            7% 416 - Fortnite\FortniteGame\Content\Paks\pakchunk10-WindowsClient.pak
+                                                                            7% 417
+          7% 424 - Fortnite\FortniteGame\Content\Paks\pakchunk1003-WindowsClient.pak
+                                                                              7% 428 - Fortnite\FortniteGame\Content\Paks\pakchunk1005-WindowsClient.pak
+                                                                              7% 429
+          7% 430 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s1-WindowsClient.pak
+                                                                               8% 430 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s1-WindowsClient.pak
+                                                                               9% 430 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s1-WindowsClient.pak
+                                                                              10% 430 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s1-WindowsClient.pak
+                                                                              11% 430 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s1-WindowsClient.pak
+                                                                              12% 430 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s1-WindowsClient.pak
+                                                                              12% 431
+         12% 432 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s10-WindowsClient.pak
+                                                                               13% 432 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s10-WindowsClient.pak
+                                                                               14% 432 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s10-WindowsClient.pak
+                                                                               15% 432 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s10-WindowsClient.pak
+                                                                               16% 432 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s10-WindowsClient.pak
+                                                                               17% 432 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s10-WindowsClient.pak
+                                                                               17% 433
+         17% 434 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s11-WindowsClient.pak
+                                                                               18% 434 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s11-WindowsClient.pak
+                                                                               19% 434 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s11-WindowsClient.pak
+                                                                               20% 434 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s11-WindowsClient.pak
+                                                                               21% 434 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s11-WindowsClient.pak
+                                                                               21% 435
+         21% 436 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s12-WindowsClient.pak
+                                                                               22% 436 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s12-WindowsClient.pak
+                                                                               23% 436 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s12-WindowsClient.pak
+                                                                               24% 436 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s12-WindowsClient.pak
+                                                                               25% 436 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s12-WindowsClient.pak
+                                                                               26% 436 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s12-WindowsClient.pak
+                                                                               26% 437
+         26% 438 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s13-WindowsClient.pak
+                                                                               27% 438 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s13-WindowsClient.pak
+                                                                               28% 438 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s13-WindowsClient.pak
+                                                                               29% 438 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s13-WindowsClient.pak
+                                                                               30% 438 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s13-WindowsClient.pak
+                                                                               31% 438 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s13-WindowsClient.pak
+                                                                               31% 439
+         31% 440 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s14-WindowsClient.pak
+                                                                               32% 440 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s14-WindowsClient.pak
+                                                                               33% 440 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s14-WindowsClient.pak
+                                                                               34% 440 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s14-WindowsClient.pak
+                                                                               35% 440 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s14-WindowsClient.pak
+                                                                               36% 440 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s14-WindowsClient.pak
+                                                                               36% 441
+         36% 442 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s15-WindowsClient.pak
+                                                                               37% 442 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s15-WindowsClient.pak
+                                                                               38% 442 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s15-WindowsClient.pak
+                                                                               39% 442 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s15-WindowsClient.pak
+                                                                               40% 442 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s15-WindowsClient.pak
+                                                                               41% 442 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s15-WindowsClient.pak
+                                                                               41% 444 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s16-WindowsClient.pak
+                                                                               42% 444 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s16-WindowsClient.pak
+                                                                               43% 444 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s16-WindowsClient.pak
+                                                                               44% 444 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s16-WindowsClient.pak
+                                                                               45% 444 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s16-WindowsClient.pak
+                                                                               45% 445
+         45% 446 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s17-WindowsClient.pak
+                                                                               46% 446 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s17-WindowsClient.pak
+                                                                               47% 446 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s17-WindowsClient.pak
+                                                                               48% 446 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s17-WindowsClient.pak
+                                                                               49% 446 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s17-WindowsClient.pak
+                                                                               50% 446 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s17-WindowsClient.pak
+                                                                               50% 447
+         50% 448 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s18-WindowsClient.pak
+                                                                               51% 448 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s18-WindowsClient.pak
+                                                                               52% 448 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s18-WindowsClient.pak
+                                                                               52% 449
+         52% 450 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s2-WindowsClient.pak
+                                                                              53% 450 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s2-WindowsClient.pak
+                                                                              54% 450 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s2-WindowsClient.pak
+                                                                              55% 450 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s2-WindowsClient.pak
+                                                                              56% 450 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s2-WindowsClient.pak
+                                                                              57% 450 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s2-WindowsClient.pak
+                                                                              57% 451
+         57% 452 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s3-WindowsClient.pak
+                                                                              58% 452 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s3-WindowsClient.pak
+                                                                              59% 452 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s3-WindowsClient.pak
+                                                                              60% 452 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s3-WindowsClient.pak
+                                                                              61% 452 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s3-WindowsClient.pak
+                                                                              61% 453
+         62% 454 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s4-WindowsClient.pak
+                                                                              63% 454 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s4-WindowsClient.pak
+                                                                              64% 454 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s4-WindowsClient.pak
+                                                                              65% 454 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s4-WindowsClient.pak
+                                                                              66% 454 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s4-WindowsClient.pak
+                                                                              66% 455
+         66% 456 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s5-WindowsClient.pak
+                                                                              67% 456 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s5-WindowsClient.pak
+                                                                              68% 456 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s5-WindowsClient.pak
+                                                                              69% 456 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s5-WindowsClient.pak
+                                                                              70% 456 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s5-WindowsClient.pak
+                                                                              71% 456 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s5-WindowsClient.pak
+                                                                              71% 457
+         71% 458 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s6-WindowsClient.pak
+                                                                              72% 458 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s6-WindowsClient.pak
+                                                                              73% 458 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s6-WindowsClient.pak
+                                                                              74% 458 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s6-WindowsClient.pak
+                                                                              75% 458 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s6-WindowsClient.pak
+                                                                              76% 458 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s6-WindowsClient.pak
+                                                                              76% 459
+         76% 460 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s7-WindowsClient.pak
+                                                                              77% 460 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s7-WindowsClient.pak
+                                                                              78% 460 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s7-WindowsClient.pak
+                                                                              79% 460 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s7-WindowsClient.pak
+                                                                              80% 460 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s7-WindowsClient.pak
+                                                                              80% 461
+         80% 462 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s8-WindowsClient.pak
+                                                                              81% 462 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s8-WindowsClient.pak
+                                                                              82% 462 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s8-WindowsClient.pak
+                                                                              83% 462 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s8-WindowsClient.pak
+                                                                              84% 462 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s8-WindowsClient.pak
+                                                                              85% 462 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s8-WindowsClient.pak
+                                                                              85% 463
+         85% 464 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s9-WindowsClient.pak
+                                                                              86% 464 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s9-WindowsClient.pak
+                                                                              87% 464 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s9-WindowsClient.pak
+                                                                              88% 464 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s9-WindowsClient.pak
+                                                                              89% 464 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s9-WindowsClient.pak
+                                                                              90% 464 - Fortnite\FortniteGame\Content\Paks\pakchunk10_s9-WindowsClient.pak
+                                                                              90% 465
+         90% 466 - Fortnite\FortniteGame\Content\Paks\pakchunk11-WindowsClient.pak
+                                                                           91% 466 - Fortnite\FortniteGame\Content\Paks\pakchunk11-WindowsClient.pak
+                                                                           92% 466 - Fortnite\FortniteGame\Content\Paks\pakchunk11-WindowsClient.pak
+                                                                           93% 466 - Fortnite\FortniteGame\Content\Paks\pakchunk11-WindowsClient.pak
+                                                                           94% 466 - Fortnite\FortniteGame\Content\Paks\pakchunk11-WindowsClient.pak
+                                                                           94% 467
+         95% 468 - Fortnite\FortniteGame\Content\Paks\pakchunk11_s1-WindowsClient.pak
+                                                                              96% 468 - Fortnite\FortniteGame\Content\Paks\pakchunk11_s1-WindowsClient.pak
+                                                                              97% 468 - Fortnite\FortniteGame\Content\Paks\pakchunk11_s1-WindowsClient.pak
+                                                                              97% 470 - Fortnite\FortniteGame\Content\Paks\pakchunk2-WindowsClient.pak
+                                                                          97% 471
+         97% 472 - Fortnite\FortniteGame\Content\Paks\pakchunk5-WindowsClient.pak
+                                                                          98% 472 - Fortnite\FortniteGame\Content\Paks\pakchunk5-WindowsClient.pak
+                                                                          98% 473
+         98% 474 - Fortnite\FortniteGame\Content\Paks\pakchunk7-WindowsClient.pak
+                                                                          99% 474 - Fortnite\FortniteGame\Content\Paks\pakchunk7-WindowsClient.pak
+                                                                          99% 475
+         99% 476 - Fortnite\FortniteGame\Content\Paks\pakchunk8-WindowsClient.pak
+                                                                          99% 477
+        
+Everything is Ok
+
+
+Folders: 70
+Files: 412
+Size:       91097814254
+Compressed: 42166795340
+
+Process terminated with exit code: -1
+
